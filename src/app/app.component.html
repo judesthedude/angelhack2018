@@ -1,4 +1,14 @@
 <!--The content below is only a placeholder and can be replaced.-->
+<agm-map 
+  [longitude]='longitude'
+  [latitude]='latitude'
+  (mapClick)=onClickCoord($event)>
+  <agm-marker
+    [longitude]='longitude'
+    [latitude]='latitude'>
+  </agm-marker>
+</agm-map>
+
 <div style="text-align:center">
   <h1>
     Welcome to {{ title }}!
