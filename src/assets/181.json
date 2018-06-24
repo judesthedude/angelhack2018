@@ -1,0 +1,587 @@
+{
+    "listID": 181,
+    "description": null,
+    "listName": "Charities Responding to the Ebola Outbreak",
+    "listType": "Hot Topics",
+    "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=1794&utm_source=DataAPI&utm_content=9989397e",
+    "groups": [
+        {
+            "groupName": null,
+            "groupDescription": null,
+            "organizations": [
+                {
+                    "rank": 1,
+                    "organization": {
+                        "charityName": "Action Against Hunger USA",
+                        "ein": "133327220",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3212&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/133327220"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 2,
+                    "organization": {
+                        "charityName": "American Jewish World Service",
+                        "ein": "222584370",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3269&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/222584370"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 3,
+                    "organization": {
+                        "charityName": "Americares",
+                        "ein": "061008595",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3289&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/061008595"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 4,
+                    "organization": {
+                        "charityName": "Brother's Brother Foundation",
+                        "ein": "346562544",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3396&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/346562544"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 5,
+                    "organization": {
+                        "charityName": "CARE",
+                        "ein": "131685039",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3568&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/131685039"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 6,
+                    "organization": {
+                        "charityName": "Catholic Relief Services",
+                        "ein": "135563422",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=5934&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/135563422"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 7,
+                    "organization": {
+                        "charityName": "CDC Foundation",
+                        "ein": "582106707",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=10296&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/582106707"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 8,
+                    "organization": {
+                        "charityName": "ChildFund International",
+                        "ein": "540536100",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3499&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/540536100"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 9,
+                    "organization": {
+                        "charityName": "Christian Blind Mission International",
+                        "ein": "362959883",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3497&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/362959883"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 10,
+                    "organization": {
+                        "charityName": "Concern Worldwide US, Inc.",
+                        "ein": "133712030",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3556&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/133712030"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 11,
+                    "organization": {
+                        "charityName": "Convoy of Hope",
+                        "ein": "680051386",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=7276&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/680051386"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 12,
+                    "organization": {
+                        "charityName": "Direct Relief",
+                        "ein": "951831116",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3626&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/951831116"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 13,
+                    "organization": {
+                        "charityName": "Doctors Without Borders, USA",
+                        "ein": "133433452",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3628&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/133433452"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 14,
+                    "organization": {
+                        "charityName": "Episcopal Relief & Development",
+                        "ein": "731635264",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=10634&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/731635264"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 15,
+                    "organization": {
+                        "charityName": "Global Communities",
+                        "ein": "520846183",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=11674&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/520846183"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 16,
+                    "organization": {
+                        "charityName": "Global Health Ministries",
+                        "ein": "363532234",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=5269&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/363532234"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 17,
+                    "organization": {
+                        "charityName": "Global Links",
+                        "ein": "521629060",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3757&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/521629060"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 18,
+                    "organization": {
+                        "charityName": "GlobalGiving",
+                        "ein": "300108263",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=11648&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/300108263"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 19,
+                    "organization": {
+                        "charityName": "Good360",
+                        "ein": "541282616",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3752&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/541282616"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 20,
+                    "organization": {
+                        "charityName": "Heart to Heart International",
+                        "ein": "481108359",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3807&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/481108359"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 21,
+                    "organization": {
+                        "charityName": "IMA World Health",
+                        "ein": "522112460",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3877&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/522112460"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 22,
+                    "organization": {
+                        "charityName": "International Medical Corps",
+                        "ein": "953949646",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8158&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/953949646"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 23,
+                    "organization": {
+                        "charityName": "International Rescue Committee",
+                        "ein": "135660870",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3898&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/135660870"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 24,
+                    "organization": {
+                        "charityName": "Medical Teams International",
+                        "ein": "930878944",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4070&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/930878944"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 25,
+                    "organization": {
+                        "charityName": "MediSend International",
+                        "ein": "752332074",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=7982&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/752332074"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 26,
+                    "organization": {
+                        "charityName": "MedShare",
+                        "ein": "582433968",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=9290&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/582433968"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 27,
+                    "organization": {
+                        "charityName": "Mercy Corps",
+                        "ein": "911148123",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4078&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/911148123"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 28,
+                    "organization": {
+                        "charityName": "Operation Blessing International",
+                        "ein": "541382657",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4265&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/541382657"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 29,
+                    "organization": {
+                        "charityName": "Operation USA",
+                        "ein": "953504080",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4268&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/953504080"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 30,
+                    "organization": {
+                        "charityName": "The Outreach Program",
+                        "ein": "200636360",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=13126&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/200636360"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 31,
+                    "organization": {
+                        "charityName": "Oxfam America",
+                        "ein": "237069110",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4288&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/237069110"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 32,
+                    "organization": {
+                        "charityName": "Partners In Health",
+                        "ein": "043567502",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4884&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/043567502"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 33,
+                    "organization": {
+                        "charityName": "Plan International USA",
+                        "ein": "135661832",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4337&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/135661832"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 34,
+                    "organization": {
+                        "charityName": "Project C.U.R.E.",
+                        "ein": "841568566",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=9945&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/841568566"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 35,
+                    "organization": {
+                        "charityName": "Project HOPE",
+                        "ein": "530242962",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4367&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/530242962"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 36,
+                    "organization": {
+                        "charityName": "Samaritan's Purse",
+                        "ein": "581437002",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4423&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/581437002"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 37,
+                    "organization": {
+                        "charityName": "Save the Children",
+                        "ein": "060726487",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4438&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/060726487"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 38,
+                    "organization": {
+                        "charityName": "SOS Children's Villages-USA",
+                        "ein": "136188433",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8016&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/136188433"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 39,
+                    "organization": {
+                        "charityName": "UNICEF USA",
+                        "ein": "131760110",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4617&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/131760110"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 39,
+                    "organization": {
+                        "charityName": "UNICEF USA",
+                        "ein": "131760110",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4617&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/131760110"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 40,
+                    "organization": {
+                        "charityName": "VisionTrust International",
+                        "ein": "841397081",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=7360&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/841397081"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 41,
+                    "organization": {
+                        "charityName": "Water Mission",
+                        "ein": "571116978",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=10709&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/571116978"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 42,
+                    "organization": {
+                        "charityName": "World Food Program USA",
+                        "ein": "133843435",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=7696&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/133843435"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 43,
+                    "organization": {
+                        "charityName": "World Hope International",
+                        "ein": "351985485",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=9136&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/351985485"
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

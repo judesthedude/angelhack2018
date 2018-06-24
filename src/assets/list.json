@@ -1,0 +1,959 @@
+[
+    {
+        "listID": 1004710,
+        "listName": "Black History Month",
+        "listType": "Hot Topics",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=4710&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/1004710"
+            }
+        }
+    },
+    {
+        "listID": 1005239,
+        "listName": "Hurricane Harvey",
+        "listType": "Hot Topics",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=5239&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/1005239"
+            }
+        }
+    },
+    {
+        "listID": 1004882,
+        "listName": "Famine & Drought",
+        "listType": "Hot Topics",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=4882&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/1004882"
+            }
+        }
+    },
+    {
+        "listID": 171,
+        "listName": "Superstorm Sandy: A Year Later",
+        "listType": "Hot Topics",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=1652&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/171"
+            }
+        }
+    },
+    {
+        "listID": 174,
+        "listName": "Midwest Tornadoes",
+        "listType": "Hot Topics",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=1667&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/174"
+            }
+        }
+    },
+    {
+        "listID": 181,
+        "listName": "Charities Responding to the Ebola Outbreak",
+        "listType": "Hot Topics",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=1794&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/181"
+            }
+        }
+    },
+    {
+        "listID": 211,
+        "listName": "Fake Charities Prey on Donors to Make Bank",
+        "listType": "CN Articles",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=2228&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/211"
+            }
+        }
+    },
+    {
+        "listID": 168,
+        "listName": "How To Help Washington Navy Yard Shooting Victims And Their Families",
+        "listType": "Hot Topics",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=1634&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/168"
+            }
+        }
+    },
+    {
+        "listID": 151,
+        "listName": "2016 Summer Olympics: Support Team USA's Current and Future Athletes",
+        "listType": "Hot Topics",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=2253&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/151"
+            }
+        }
+    },
+    {
+        "listID": 214,
+        "listName": "The Paralympic Games and Charities Promoting Adaptive Sports",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=4318&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/214"
+            }
+        }
+    },
+    {
+        "listID": 193,
+        "listName": "Foundation's Ongoing Support Means More Charity Ratings For Donors",
+        "listType": "CN Articles",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=2103&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/193"
+            }
+        }
+    },
+    {
+        "listID": 210,
+        "listName": "Charities with Perfect Scores",
+        "listType": "Landing Pages",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=2203&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/210"
+            }
+        }
+    },
+    {
+        "listID": 270,
+        "listName": "Hurricane Irma",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=5243&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/270"
+            }
+        }
+    },
+    {
+        "listID": 291,
+        "listName": "Rohingya Refugee Crisis",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=5522&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/291"
+            }
+        }
+    },
+    {
+        "listID": 313,
+        "listName": "Star Wars Day: Be a Force for Good",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=6238&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/313"
+            }
+        }
+    },
+    {
+        "listID": 314,
+        "listName": "Mother's Day 2018",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=6239&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/314"
+            }
+        }
+    },
+    {
+        "listID": 223,
+        "listName": "Hurricane Matthew",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=4386&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/223"
+            }
+        }
+    },
+    {
+        "listID": 22,
+        "listName": "10 Celebrity-Related Charities",
+        "listType": "Top List",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=topten.detail&listid=22&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/22"
+            }
+        }
+    },
+    {
+        "listID": 177,
+        "listName": "CN Watchlist",
+        "listType": "Other",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=topten.detail&listid=177&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/177"
+            }
+        }
+    },
+    {
+        "listID": 17,
+        "listName": "10 Highly Rated Charities Relying on Private Contributions",
+        "listType": "Top List",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=topten.detail&listid=17&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/17"
+            }
+        }
+    },
+    {
+        "listID": 100,
+        "listName": "10 Charities with the Most Consecutive 4-Star Ratings",
+        "listType": "Top List",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=topten.detail&listid=100&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/100"
+            }
+        }
+    },
+    {
+        "listID": 1002133,
+        "listName": "Women's History Month",
+        "listType": "Hot Topics",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=2133&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/1002133"
+            }
+        }
+    },
+    {
+        "listID": 109,
+        "listName": "Oil Spill in the Gulf of Mexico",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=1066&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/109"
+            }
+        }
+    },
+    {
+        "listID": 152,
+        "listName": "Hurricane Isaac",
+        "listType": "Hot Topics",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=1424&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/152"
+            }
+        }
+    },
+    {
+        "listID": 157,
+        "listName": "Syrian Crisis",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=1523&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/157"
+            }
+        }
+    },
+    {
+        "listID": 226,
+        "listName": "Tennessee Wildfires: How to Help",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=4552&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/226"
+            }
+        }
+    },
+    {
+        "listID": 176,
+        "listName": "Autism Awareness Month",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=4845&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/176"
+            }
+        }
+    },
+    {
+        "listID": 185,
+        "listName": "Red Nose Day 2017",
+        "listType": "CN Articles",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=4986&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/185"
+            }
+        }
+    },
+    {
+        "listID": 271,
+        "listName": "Earthquakes in Mexico",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=5392&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/271"
+            }
+        }
+    },
+    {
+        "listID": 221,
+        "listName": "Charities Rated with Consolidated Pro-Forma Data",
+        "listType": "Other",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=topten.detail&listid=221&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/221"
+            }
+        }
+    },
+    {
+        "listID": 41,
+        "listName": "Support Our Troops",
+        "listType": "Other",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=topten.detail&listid=41&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/41"
+            }
+        }
+    },
+    {
+        "listID": 28,
+        "listName": "10 Charities Overpaying their For-Profit Fundraisers",
+        "listType": "Top List",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=topten.detail&listid=28&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/28"
+            }
+        }
+    },
+    {
+        "listID": 1000497,
+        "listName": "Charities Working to Prevent and Cure Breast Cancer",
+        "listType": "Hot Topics",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=497&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/1000497"
+            }
+        }
+    },
+    {
+        "listID": 153,
+        "listName": "Hurricane Sandy",
+        "listType": "Hot Topics",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=1451&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/153"
+            }
+        }
+    },
+    {
+        "listID": 167,
+        "listName": "Colorado Floods: How To Help",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=1624&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/167"
+            }
+        }
+    },
+    {
+        "listID": 186,
+        "listName": "Humanitarian Crisis in Yemen",
+        "listType": "Hot Topics",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=1904&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/186"
+            }
+        }
+    },
+    {
+        "listID": 123,
+        "listName": "U.S. Tornado Disaster Relief",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=1244&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/123"
+            }
+        }
+    },
+    {
+        "listID": 1006234,
+        "listName": "Earth Day: April 22, 2018",
+        "listType": "Hot Topics",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=6234&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/1006234"
+            }
+        }
+    },
+    {
+        "listID": 212,
+        "listName": "Louisiana Flooding",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=2281&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/212"
+            }
+        }
+    },
+    {
+        "listID": 191,
+        "listName": "Major Earthquake Impacts Pakistan, Afghanistan and India",
+        "listType": "Hot Topics",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=2032&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/191"
+            }
+        }
+    },
+    {
+        "listID": 209,
+        "listName": "Ecuador Earthquake",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=2172&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/209"
+            }
+        }
+    },
+    {
+        "listID": 82,
+        "listName": "Ramadan: A Month of Fasting, Prayer, and Zakat",
+        "listType": "Hot Topics",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=2215&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/82"
+            }
+        }
+    },
+    {
+        "listID": 229,
+        "listName": "Immigration and Refugees",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=4665&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/229"
+            }
+        }
+    },
+    {
+        "listID": 262,
+        "listName": "Mental Health Awareness Month",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=4883&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/262"
+            }
+        }
+    },
+    {
+        "listID": 268,
+        "listName": "Mudslides in Sierra Leone",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=5217&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/268"
+            }
+        }
+    },
+    {
+        "listID": 294,
+        "listName": "Bill & Melinda Gates Foundation Share Picks of Organizations Saving Millions of Children from Malnutrition",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=5629&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/294"
+            }
+        }
+    },
+    {
+        "listID": 298,
+        "listName": "Heart Healthy Charities",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=5965&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/298"
+            }
+        }
+    },
+    {
+        "listID": 310,
+        "listName": "Save the Rhino Day",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=6236&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/310"
+            }
+        }
+    },
+    {
+        "listID": 322,
+        "listName": "Red Nose Day 2018",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=6330&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/322"
+            }
+        }
+    },
+    {
+        "listID": 323,
+        "listName": "National Anti-Boredom Month",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=6355&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/323"
+            }
+        }
+    },
+    {
+        "listID": 7,
+        "listName": "10 Charities Worth Watching",
+        "listType": "Top List",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=topten.detail&listid=7&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/7"
+            }
+        }
+    },
+    {
+        "listID": 148,
+        "listName": "10 Most Followed Charities",
+        "listType": "Top List",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=topten.detail&listid=148&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/148"
+            }
+        }
+    },
+    {
+        "listID": 124,
+        "listName": "Disaster Giving: Joplin, MO Tornado",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=1248&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/124"
+            }
+        }
+    },
+    {
+        "listID": 158,
+        "listName": "20 New Charities Added Thanks to Hobbs Foundation Funding",
+        "listType": "CN Articles",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=1530&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/158"
+            }
+        }
+    },
+    {
+        "listID": 172,
+        "listName": "Super Typhoon Haiyan Disaster Relief",
+        "listType": "Hot Topics",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=1659&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/172"
+            }
+        }
+    },
+    {
+        "listID": 175,
+        "listName": "Ten Year Partnership Results in nearly 200 Additional Charity Ratings",
+        "listType": "CN Articles",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=1694&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/175"
+            }
+        }
+    },
+    {
+        "listID": 184,
+        "listName": "Help the Victims of the Nepal Earthquake",
+        "listType": "Hot Topics",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=1888&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/184"
+            }
+        }
+    },
+    {
+        "listID": 169,
+        "listName": "Tropical Cyclone Phailin Disaster Relief",
+        "listType": "Hot Topics",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=1648&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/169"
+            }
+        }
+    },
+    {
+        "listID": 266,
+        "listName": "Civil Rights",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=5204&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/266"
+            }
+        }
+    },
+    {
+        "listID": 1005013,
+        "listName": "LGBTQ+ Pride Month",
+        "listType": "Hot Topics",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=5013&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/1005013"
+            }
+        }
+    },
+    {
+        "listID": 1004742,
+        "listName": "United Nations Sustainable Development Goals",
+        "listType": "Hot Topics",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=4742&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/1004742"
+            }
+        }
+    },
+    {
+        "listID": 1005356,
+        "listName": "Relief for Puerto Rico and Areas Impacted by Hurricane Maria",
+        "listType": "Hot Topics",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=5356&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/1005356"
+            }
+        }
+    },
+    {
+        "listID": 213,
+        "listName": "Italy Earthquake",
+        "listType": "Hot Topics",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=3207&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/213"
+            }
+        }
+    },
+    {
+        "listID": 189,
+        "listName": "South Carolina Severe Flooding",
+        "listType": "Hot Topics",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=2024&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/189"
+            }
+        }
+    },
+    {
+        "listID": 190,
+        "listName": "Hurricane Patricia",
+        "listType": "Hot Topics",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=2031&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/190"
+            }
+        }
+    },
+    {
+        "listID": 285,
+        "listName": "California Wildfires",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=5456&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/285"
+            }
+        }
+    },
+    {
+        "listID": 293,
+        "listName": "Organizations Saving Millions of Children from Malnutrition",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=5630&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/293"
+            }
+        }
+    },
+    {
+        "listID": 297,
+        "listName": "Mt. Mayon Eruption",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=5966&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/297"
+            }
+        }
+    },
+    {
+        "listID": 300,
+        "listName": "Autism Awareness",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=6203&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/300"
+            }
+        }
+    },
+    {
+        "listID": 308,
+        "listName": "Arbor Day",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=6235&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/308"
+            }
+        }
+    },
+    {
+        "listID": 312,
+        "listName": "World Press Freedom Day",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=6237&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/312"
+            }
+        }
+    },
+    {
+        "listID": 315,
+        "listName": "Memorial Day 2018",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=6240&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/315"
+            }
+        }
+    },
+    {
+        "listID": 316,
+        "listName": "Father's Day: June 17, 2018",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=6278&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/316"
+            }
+        }
+    },
+    {
+        "listID": 324,
+        "listName": "Stay Cool During the Dog Days of Summer",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=6354&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/324"
+            }
+        }
+    },
+    {
+        "listID": 29,
+        "listName": "Breast Cancer Charities",
+        "listType": "Other",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=topten.detail&listid=29&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/29"
+            }
+        }
+    },
+    {
+        "listID": 15,
+        "listName": "10 Most Frequently Viewed Charities",
+        "listType": "Top List",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=topten.detail&listid=15&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/15"
+            }
+        }
+    },
+    {
+        "listID": 18,
+        "listName": "10 of the Best Charities Everyone's Heard Of",
+        "listType": "Top List",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=topten.detail&listid=18&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/18"
+            }
+        }
+    },
+    {
+        "listID": 24,
+        "listName": "10 Super-Sized Charities",
+        "listType": "Top List",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=topten.detail&listid=24&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/24"
+            }
+        }
+    },
+    {
+        "listID": 11,
+        "listName": "10 Charities Expanding in a Hurry",
+        "listType": "Top List",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=topten.detail&listid=11&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/11"
+            }
+        }
+    },
+    {
+        "listID": 1000531,
+        "listName": "May is Military Appreciation Month",
+        "listType": "Hot Topics",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=531&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/1000531"
+            }
+        }
+    },
+    {
+        "listID": 108,
+        "listName": "Support Charities Providing Aid to Chile",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=1042&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/108"
+            }
+        }
+    },
+    {
+        "listID": 155,
+        "listName": "Newtown, CT School Shooting",
+        "listType": "Hot Topics",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=1508&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/155"
+            }
+        }
+    },
+    {
+        "listID": 165,
+        "listName": "Oklahoma Tornado Relief",
+        "listType": "Interest Area",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=1567&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/165"
+            }
+        }
+    },
+    {
+        "listID": 166,
+        "listName": "Massive 'Rim' Wildfire in California",
+        "listType": "Hot Topics",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=1614&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/166"
+            }
+        }
+    },
+    {
+        "listID": 178,
+        "listName": "New Charity Ratings",
+        "listType": "CN Articles",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=1770&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/178"
+            }
+        }
+    },
+    {
+        "listID": 179,
+        "listName": "ALS Ice Bucket Challenge",
+        "listType": "CN Articles",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=1780&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/179"
+            }
+        }
+    },
+    {
+        "listID": 182,
+        "listName": "Thanks to Hobbs Foundation Funding We've Rated 20 Additional Charities",
+        "listType": "CN Articles",
+        "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=1846&utm_source=DataAPI&utm_content=9989397e",
+        "_rapid_links": {
+            "related": {
+                "href": "https://api.data.charitynavigator.org/v2/Lists/182"
+            }
+        }
+    }
+]

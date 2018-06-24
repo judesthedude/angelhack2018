@@ -4,20 +4,25 @@ import { AgmCoreModule } from '@agm/core';
 import { MnFullpageModule } from 'ngx-fullpage';
 
 import { AppComponent } from './app.component';
-import { HttpClient } from '@angular/common/http';
+import { HttpClientModule } from '@angular/common/http';
+import { ApiComponent } from './api/api.component';
+import { ApiService } from './api/api.service';
+import { RouterModule } from '@angular/router';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    ApiComponent
   ],
   imports: [
+    RouterModule,
     BrowserModule,
-    MnFullpageModule.forRoot(),
-    AgmCoreModule.forRoot({
-      apiKey: 'AIzaSyAYG9d8fas1qkl6LQv3MvYiYVtUCLXah2Q'
-    })
+    AgmCoreModule,
+    HttpClientModule,
+    MnFullpageModule.forRoot()
   ],
-  providers: [ HttpClient ],
+  providers: [
+    ApiService ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
