@@ -1,0 +1,41 @@
+{
+    "listID": 174,
+    "description": null,
+    "listName": "Midwest Tornadoes",
+    "listType": "Hot Topics",
+    "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=1667&utm_source=DataAPI&utm_content=9989397e",
+    "groups": [
+        {
+            "groupName": null,
+            "groupDescription": null,
+            "organizations": [
+                {
+                    "rank": 1,
+                    "organization": {
+                        "charityName": "All Hands and Hearts Smart Response",
+                        "ein": "203414952",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=13109&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/203414952"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 2,
+                    "organization": {
+                        "charityName": "Matthew 25: Ministries",
+                        "ein": "311348100",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=6901&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/311348100"
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

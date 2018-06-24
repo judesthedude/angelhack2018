@@ -1,0 +1,713 @@
+{
+    "listID": 1004882,
+    "description": null,
+    "listName": "Famine & Drought",
+    "listType": "Hot Topics",
+    "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=4882&utm_source=DataAPI&utm_content=9989397e",
+    "groups": [
+        {
+            "groupName": "Kenya",
+            "groupDescription": null,
+            "organizations": [
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Kinship United",
+                        "ein": "364395095",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=10000&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/364395095"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "The Zakat Foundation of America",
+                        "ein": "364476244",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=10986&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/364476244"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "International Medical Corps",
+                        "ein": "953949646",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8158&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/953949646"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "World Vision",
+                        "ein": "951922279",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4768&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/951922279"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "ActionAid USA",
+                        "ein": "522277575",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8757&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/522277575"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Oxfam America",
+                        "ein": "237069110",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4288&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/237069110"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Childcare Worldwide",
+                        "ein": "953619910",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3475&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/953619910"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "American Relief Agency for the Horn of Africa (ARAHA)",
+                        "ein": "411989714",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=13861&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/411989714"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "American Jewish World Service",
+                        "ein": "222584370",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3269&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/222584370"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "GlobalGiving",
+                        "ein": "300108263",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=11648&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/300108263"
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "groupName": "Ethiopia",
+            "groupDescription": null,
+            "organizations": [
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "World Vision",
+                        "ein": "951922279",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4768&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/951922279"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Oxfam America",
+                        "ein": "237069110",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4288&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/237069110"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "GlobalGiving",
+                        "ein": "300108263",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=11648&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/300108263"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "The Zakat Foundation of America",
+                        "ein": "364476244",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=10986&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/364476244"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "International Medical Corps",
+                        "ein": "953949646",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8158&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/953949646"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "ActionAid USA",
+                        "ein": "522277575",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8757&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/522277575"
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "groupName": "Somalia",
+            "groupDescription": null,
+            "organizations": [
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "World Vision",
+                        "ein": "951922279",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4768&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/951922279"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "ActionAid USA",
+                        "ein": "522277575",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8757&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/522277575"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Mercy-USA for Aid and Development",
+                        "ein": "382846307",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4081&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/382846307"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Feed My Starving Children",
+                        "ein": "411601449",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=9307&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/411601449"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "International Medical Corps",
+                        "ein": "953949646",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8158&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/953949646"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Americares",
+                        "ein": "061008595",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3289&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/061008595"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Action Against Hunger USA",
+                        "ein": "133327220",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3212&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/133327220"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "International Rescue Committee",
+                        "ein": "135660870",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3898&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/135660870"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "The Zakat Foundation of America",
+                        "ein": "364476244",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=10986&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/364476244"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "American Relief Agency for the Horn of Africa (ARAHA)",
+                        "ein": "411989714",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=13861&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/411989714"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Oxfam America",
+                        "ein": "237069110",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4288&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/237069110"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "GlobalGiving",
+                        "ein": "300108263",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=11648&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/300108263"
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "groupName": "South Sudan",
+            "groupDescription": null,
+            "organizations": [
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Catholic Medical Mission Board",
+                        "ein": "135602319",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=7635&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/135602319"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Oxfam America",
+                        "ein": "237069110",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4288&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/237069110"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "GlobalGiving",
+                        "ein": "300108263",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=11648&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/300108263"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "International Medical Corps",
+                        "ein": "953949646",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8158&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/953949646"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "American Jewish World Service",
+                        "ein": "222584370",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3269&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/222584370"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "The Zakat Foundation of America",
+                        "ein": "364476244",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=10986&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/364476244"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "World Vision",
+                        "ein": "951922279",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4768&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/951922279"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Action Against Hunger USA",
+                        "ein": "133327220",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3212&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/133327220"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "International Rescue Committee",
+                        "ein": "135660870",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3898&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/135660870"
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "groupName": "Nigeria",
+            "groupDescription": null,
+            "organizations": [
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Oxfam America",
+                        "ein": "237069110",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4288&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/237069110"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Action Against Hunger USA",
+                        "ein": "133327220",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3212&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/133327220"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "International Rescue Committee",
+                        "ein": "135660870",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3898&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/135660870"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "The Zakat Foundation of America",
+                        "ein": "364476244",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=10986&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/364476244"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "International Medical Corps",
+                        "ein": "953949646",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8158&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/953949646"
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "groupName": "Yemen",
+            "groupDescription": null,
+            "organizations": [
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Action Against Hunger USA",
+                        "ein": "133327220",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3212&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/133327220"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "International Rescue Committee",
+                        "ein": "135660870",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3898&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/135660870"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Oxfam America",
+                        "ein": "237069110",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4288&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/237069110"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "The Zakat Foundation of America",
+                        "ein": "364476244",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=10986&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/364476244"
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "groupName": "Sudan",
+            "groupDescription": null,
+            "organizations": [
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "American Relief Agency for the Horn of Africa (ARAHA)",
+                        "ein": "411989714",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=13861&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/411989714"
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "groupName": "Uganda",
+            "groupDescription": null,
+            "organizations": [
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "American Jewish World Service",
+                        "ein": "222584370",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3269&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/222584370"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Kinship United",
+                        "ein": "364395095",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=10000&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/364395095"
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "groupName": "Swaziland",
+            "groupDescription": null,
+            "organizations": [
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Heart for Africa",
+                        "ein": "364509500",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=12776&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/364509500"
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
