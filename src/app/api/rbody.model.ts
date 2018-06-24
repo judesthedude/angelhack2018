@@ -28,3 +28,9 @@ export class Charity{
 	accountabilityRatingscore:string
 	accountabilityRatingrating:string
 }
+
+export class Report {
+    title
+    origin
+    body
+}

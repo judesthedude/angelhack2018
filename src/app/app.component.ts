@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { ApiService } from './api/api.service';
-import { Disaster, Charity } from './api/rbody.model';
+import { Disaster, Charity, Report } from './api/rbody.model';
 
 @Component({
   selector: 'app-root',
@@ -14,6 +14,7 @@ export class AppComponent implements OnInit{
   searchString: string;
   disasterList:Disaster[]=[];
   charityList:Charity[]=[];
+  reportList: Report[]=[];
   selectedDisaster:string="43539"
   
 
@@ -26,10 +27,11 @@ export class AppComponent implements OnInit{
   ngOnInit() {
     this.getDisaster("sada")
     this.getCharity("sad");
+    this.getReports();
   }
 
   getDisaster(typeName: string){
-    let tName="Fire Insect Infestation";
+    let tName=typeName;//"Fire Insect Infestation";
     let fields=["type.name"];
     this.api.getDisastersByType(tName, "disasters", fields)
     .then(resp =>
@@ -55,7 +57,15 @@ export class AppComponent implements OnInit{
     let fields=["disaster.id"];
     this.api.getDisastersByType(this.selectedDisaster,"reports", fields).then(
       resp => {
-        
+        resp.data.forEach(element => {
+          let r = new Report();
+          r.title=element['fields']['title'];
+          r.body= String (element['fields']['body']).substr(0,50);
+          r.origin=element['fields']['origin'];
+          this.reportList.push(r);
+          console.log(r);
+          
+        });
       }
     )
   }
