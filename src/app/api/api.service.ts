@@ -6,8 +6,7 @@ import { Param, Query } from './rbody.model';
 
 const httpOptions = {
   headers: new HttpHeaders({
-    'Content-Type': 'application/json',
-    "Access-Control-Allow-Origin": "*"
+    'Content-Type': 'application/json'
   })
 };
 
@@ -22,15 +21,15 @@ export class ApiService {
   }
 //https://api.reliefweb.int/v1/reports?appname=apidoc&limit=1&filter[field]=date.created&filter[value][from]=2018-06-21T00:00:00%2B00:00&filter[field]=disaster.name&filter[value]=hurricane&profile=full
 //https://data.orghunter.com/v1/charitysearch?user_key=4434856c2a554bbf5c6ffdac9fa421b8&city=Toronto&searchTerm=cancer  
-getDisasters() {
-  let postUrl = "https://api.reliefweb.int/v1/disasters?appname=apidoc";
+
+getDisastersByType(typeName: string, api: string, fields: string[]) : Promise<any>{
+  let postUrl = "https://api.reliefweb.int/v1/"+api+"?appname=apidoc&profile=full";
   this.pVal.query = new Query();
-  this.pVal.query.fields=["description", "country","country.name"];
+  this.pVal.query.fields=fields;
   this.pVal.query.operator="OR";
-  this.pVal.query.value="earthquake Salvador en";
+  this.pVal.query.value=typeName;
   this.pVal.preset="latest";
-  this.http.post(postUrl,this.pVal, httpOptions).toPromise()
-  .then(resp => console.log(resp['data'][3]['fields']['name']));
+  return this.http.post(postUrl,this.pVal, httpOptions).toPromise();
 
     // this.http
     //   .get("https://api.reliefweb.int/v1/reports?appname=apidoc&limit=1&filter[field]=date.created&filter[value][from]=2018-06-21T00:00:00%2B00:00&filter[field]=disaster.name&filter[value]=hurricane&profile=full", httpOptions)
@@ -40,6 +39,7 @@ getDisasters() {
   }
 
   getCharity() {
+
   }
   getCharityHttp() {
     let url="https://api.data.charitynavigator.org/v2/Lists";

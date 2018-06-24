@@ -9,3 +9,14 @@ export class Query {
     operator:string;
 }
   
+export class Disaster{
+    longitude:string;
+    latitute:string;
+    country;
+    state;
+    postalCode;
+    title:string;
+    description:string;
+    id:string;
+    typeName:string;
+}
