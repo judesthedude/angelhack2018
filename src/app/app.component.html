@@ -14,52 +14,48 @@
   </div>
   <div class="section welcome-section fp-section fp-table">
     <div class="fp-tableCell">
-      <div class="row">
-        <div class="col-xs-12 col-sm-3">
-          <div id="wrapper" [ngClass]="{'toggled': !showSidebar }">
-            <!-- Sidebar -->
-            <div id="sidebar-wrapper">
-              <ul class="sidebar-nav">
-                <li class="sidebar-brand">
-                  <a href="#">
-                    Start Bootstrap
-                  </a>
-                </li>
-                <li>
-                  <a href="#">Dashboard</a>
-                </li>
-                <li>
-                  <a href="#">Shortcuts</a>
-                </li>
-                <li>
-                  <a href="#">Overview</a>
-                </li>
-                <li>
-                  <a href="#">Events</a>
-                </li>
-                <li>
-                  <a href="#">About</a>
-                </li>
-                <li>
-                  <a href="#">Services</a>
-                </li>
-                <li>
-                  <a href="#">Contact</a>
-                </li>
-              </ul>
-            </div>
-            <!-- /#sidebar-wrapper -->
-          </div>
-
+      <div class="row" id="wrapper" [ngClass]="{'toggled': !showSidebar }">
+        <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+          <ul class="sidebar-nav">
+            <li class="sidebar-brand">
+              <a href="#">
+                Start Bootstrap
+              </a>
+            </li>
+            <li>
+              <a href="#">Dashboard</a>
+            </li>
+            <li>
+              <a href="#">Shortcuts</a>
+            </li>
+            <li>
+              <a href="#">Overview</a>
+            </li>
+            <li>
+              <a href="#">Events</a>
+            </li>
+            <li>
+              <a href="#">About</a>
+            </li>
+            <li>
+              <a href="#">Services</a>
+            </li>
+            <li>
+              <a href="#">Contact</a>
+            </li>
+          </ul>
         </div>
-        <div class="col-xs-12 col-sm-9">
+        <!-- /#sidebar-wrapper -->
+        <div id="page-content-wrapper">
             <a href="#menu-toggle" class="btn btn-secondary" id="menu-toggle" (click)="showSidebar = !showSidebar">
-              Toggle Menu<i class="fas fa-bars"></i>
-            </a>
+                <i class="fas fa-bars"></i>
+              </a>
           <agm-map [longitude]='longitude' [latitude]='latitude' (mapClick)=onClickCoord($event)>
             <agm-marker [longitude]='longitude' [latitude]='latitude'>
             </agm-marker>
           </agm-map>
+          
         </div>
       </div>
     </div>

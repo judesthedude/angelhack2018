@@ -20,3 +20,10 @@ agm-map {
     margin-left: -8%;
     padding-bottom: 11%;
 }
+
+#menu-toggle {
+    position: absolute;
+    top: 10px;
+    z-index: 1000;
+    left: 20px;
+}
