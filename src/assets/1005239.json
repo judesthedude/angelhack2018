@@ -1,0 +1,145 @@
+{
+    "listID": 1005239,
+    "description": null,
+    "listName": "Hurricane Harvey",
+    "listType": "Hot Topics",
+    "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=5239&utm_source=DataAPI&utm_content=9989397e",
+    "groups": [
+        {
+            "groupName": "Humanitarian Aid",
+            "groupDescription": "<p>\r\n\tCharities providing general disaster relief in the wake of Hurricane Harvey.</p>\r\n",
+            "organizations": [
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Operation Blessing International",
+                        "ein": "541382657",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4265&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/541382657"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "International Relief Teams",
+                        "ein": "330412751",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=5210&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/330412751"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "World Hope International",
+                        "ein": "351985485",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=9136&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/351985485"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "ICNA Relief USA",
+                        "ein": "043810161",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=16224&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/043810161"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "All Hands and Hearts Smart Response",
+                        "ein": "203414952",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=13109&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/203414952"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Operation USA",
+                        "ein": "953504080",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4268&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/953504080"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Episcopal Relief & Development",
+                        "ein": "731635264",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=10634&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/731635264"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "I Have A Dream Foundation - Los Angeles",
+                        "ein": "954089758",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8734&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/954089758"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "United Way of Greater Houston",
+                        "ein": "741167964",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4661&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/741167964"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "World Vision",
+                        "ein": "951922279",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4768&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/951922279"
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

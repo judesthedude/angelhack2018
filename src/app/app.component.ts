@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { ConfigService } from '../config/config.services';
+import { ApiService } from './api/api.service';
 
 @Component({
   selector: 'app-root',
@@ -12,18 +12,15 @@ export class AppComponent implements OnInit{
   longitude: number = -79.3832;
 
   constructor(
-    private cService:ConfigService
+    private api: ApiService
   ){
-    
-  }
-  ngOnInit(){
-    this.testMethod();
+
   }
 
-  testMethod(){
-    console.log(this.cService.getConfig('test'));
+  ngOnInit() {
+    console.log("test");
+    this.api.getCharity();
   }
-
   onClickCoord(e) {
     console.log(e);
   }

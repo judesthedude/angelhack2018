@@ -1,0 +1,793 @@
+{
+    "listID": 1004710,
+    "description": null,
+    "listName": "Black History Month",
+    "listType": "Hot Topics",
+    "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=4710&utm_source=DataAPI&utm_content=9989397e",
+    "groups": [
+        {
+            "groupName": "Health",
+            "groupDescription": "<b>Health</b> charities cure diseases, treat, and support our sick and disabled, seek improvements in medical treatments, and promote public understanding and awareness of particular health risks, diseases, and disabilities.",
+            "organizations": [
+                {
+                    "rank": 1,
+                    "organization": {
+                        "charityName": "Amref Health Africa",
+                        "ein": "131867411",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4943&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/131867411"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 2,
+                    "organization": {
+                        "charityName": "Black AIDS Institute",
+                        "ein": "954742741",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=10801&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/954742741"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 3,
+                    "organization": {
+                        "charityName": "International Waldenstrom's Macroglobulinemia Foundation",
+                        "ein": "541784426",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=11268&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/541784426"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 4,
+                    "organization": {
+                        "charityName": "National Health Law Program",
+                        "ein": "953080947",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=17217&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/953080947"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 5,
+                    "organization": {
+                        "charityName": "National Medical Association",
+                        "ein": "536010805",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=15478&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/536010805"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 6,
+                    "organization": {
+                        "charityName": "UNICEF USA",
+                        "ein": "131760110",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4617&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/131760110"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 6,
+                    "organization": {
+                        "charityName": "UNICEF USA",
+                        "ein": "131760110",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4617&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/131760110"
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "groupName": "History & Culture",
+            "groupDescription": "<b>History & Culture</b> charities celebrate the important events, individuals, and culture of black people across the world.",
+            "organizations": [
+                {
+                    "rank": 1,
+                    "organization": {
+                        "charityName": "Alvin Ailey Dance Foundation",
+                        "ein": "132584273",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8185&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/132584273"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 2,
+                    "organization": {
+                        "charityName": "Apollo Theater Foundation",
+                        "ein": "133630066",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8940&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/133630066"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 3,
+                    "organization": {
+                        "charityName": "Charles H. Wright Museum of African American History",
+                        "ein": "381882096",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=6980&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/381882096"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 4,
+                    "organization": {
+                        "charityName": "Facing History and Ourselves",
+                        "ein": "042761636",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3681&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/042761636"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 5,
+                    "organization": {
+                        "charityName": "Museum of African American History",
+                        "ein": "042429556",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=15567&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/042429556"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 6,
+                    "organization": {
+                        "charityName": "National Civil Rights Museum",
+                        "ein": "581484027",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=5527&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/581484027"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 7,
+                    "organization": {
+                        "charityName": "National Underground Railroad Freedom Center",
+                        "ein": "311436217",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=5194&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/311436217"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 8,
+                    "organization": {
+                        "charityName": "The HistoryMakers",
+                        "ein": "364328170",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=15288&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/364328170"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 9,
+                    "organization": {
+                        "charityName": "The King Arts Complex",
+                        "ein": "237065803",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=14863&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/237065803"
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "groupName": "Civil Rights",
+            "groupDescription": "<b>Civil Rights</b> charities support the passage and enforcement of laws and other social measures designed to protect and promote reform. These organizations defend civil rights as well as engage and advance social action.",
+            "organizations": [
+                {
+                    "rank": 1,
+                    "organization": {
+                        "charityName": "Advancement Project",
+                        "ein": "954835230",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=16010&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/954835230"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 2,
+                    "organization": {
+                        "charityName": "American Civil Liberties Union Foundation",
+                        "ein": "136213516",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3247&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/136213516"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 3,
+                    "organization": {
+                        "charityName": "Center for Constitutional Rights",
+                        "ein": "226082880",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=7728&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/226082880"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 4,
+                    "organization": {
+                        "charityName": "Chinese for Affirmative Action",
+                        "ein": "942161304",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=16564&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/942161304"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 5,
+                    "organization": {
+                        "charityName": "Equal Justice Initiative",
+                        "ein": "631135091",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=12756&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/631135091"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 6,
+                    "organization": {
+                        "charityName": "Leadership Conference Education Fund",
+                        "ein": "237026895",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=9421&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/237026895"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 7,
+                    "organization": {
+                        "charityName": "NAACP Legal Defense and Educational Fund",
+                        "ein": "131655255",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4146&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/131655255"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 8,
+                    "organization": {
+                        "charityName": "National People's Action",
+                        "ein": "362755109",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=15276&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/362755109"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 9,
+                    "organization": {
+                        "charityName": "National Urban League",
+                        "ein": "131840489",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4200&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/131840489"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 10,
+                    "organization": {
+                        "charityName": "OneAmerica",
+                        "ein": "200384893",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=14888&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/200384893"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 11,
+                    "organization": {
+                        "charityName": "Public Advocates",
+                        "ein": "237103042",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=16400&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/237103042"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 12,
+                    "organization": {
+                        "charityName": "Race Forward",
+                        "ein": "942759879",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=15976&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/942759879"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 13,
+                    "organization": {
+                        "charityName": "Southern Poverty Law Center",
+                        "ein": "630598743",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4482&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/630598743"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 14,
+                    "organization": {
+                        "charityName": "Texas Civil Rights Project",
+                        "ein": "741995879",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=15920&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/741995879"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": 15,
+                    "organization": {
+                        "charityName": "The Sentencing Project",
+                        "ein": "521472546",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=10364&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/521472546"
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "groupName": "Community Development",
+            "groupDescription": "<b>Community Development</b> charities promote economic growth and stability through programs that increase access to affordable housing, stimulate our communities, and enhance our public and private institutions.",
+            "organizations": [
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Headwaters Foundation for Social Justice",
+                        "ein": "363359386",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=11536&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/363359386"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "National Black Child Development Institute",
+                        "ein": "520908178",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=9550&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/520908178"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "100 Black Men of America",
+                        "ein": "581974429",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=12098&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/581974429"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Louisville Urban League",
+                        "ein": "610444771",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=15872&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/610444771"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "National Urban League",
+                        "ein": "131840489",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4200&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/131840489"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Urban League of Greater Cleveland",
+                        "ein": "340720563",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=14258&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/340720563"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "The Brotherhood/Sister Sol",
+                        "ein": "133857387",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=13182&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/133857387"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Mississippi Center for Justice",
+                        "ein": "134203234",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=11095&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/134203234"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Congressional Black Caucus Foundation",
+                        "ein": "521160561",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=15471&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/521160561"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "National Action Council for Minorities in Engineering",
+                        "ein": "521190664",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=5409&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/521190664"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Community Voices Heard (CVH)",
+                        "ein": "133901997",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=7773&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/133901997"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Indiana Black Expo, Inc.",
+                        "ein": "351406245",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=10415&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/351406245"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Make the Road New York",
+                        "ein": "113344389",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8606&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/113344389"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Minority Corporate Counsel Association",
+                        "ein": "133920905",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=14755&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/133920905"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "ALIGN: The Alliance for a Greater New York",
+                        "ein": "200559291",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=16364&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/200559291"
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "groupName": "Education & Training",
+            "groupDescription": "<b>Education & Training</b> charities make learning possible for students of all ages, from pre-school to graduate school. These charities may also focus on leadership and professional development for adults.",
+            "organizations": [
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Rainier Scholars",
+                        "ein": "912045918",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8724&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/912045918"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Sponsors for Educational Opportunity (SEO)",
+                        "ein": "132578670",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8609&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/132578670"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Page Education Foundation",
+                        "ein": "363605013",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8882&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/363605013"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "UNCF",
+                        "ein": "131624241",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4614&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/131624241"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "NEED",
+                        "ein": "256070821",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=11099&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/256070821"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "New Teacher Center",
+                        "ein": "262427526",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=17116&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/262427526"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Harlem Academy",
+                        "ein": "562454573",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=13183&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/562454573"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Black Student Fund",
+                        "ein": "526053597",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=7852&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/526053597"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Thurgood Marshall College Fund",
+                        "ein": "411750692",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=7829&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/411750692"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "Jackie Robinson Foundation",
+                        "ein": "132896345",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3914&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/132896345"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "A Better Chance",
+                        "ein": "237173492",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=6082&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/237173492"
+                            }
+                        }
+                    }
+                },
+                {
+                    "rank": null,
+                    "organization": {
+                        "charityName": "The Sphinx Organization",
+                        "ein": "383283759",
+                        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=9297&utm_source=DataAPI&utm_content=9989397e",
+                        "_rapid_links": {
+                            "related": {
+                                "href": "https://api.data.charitynavigator.org/v2/Organizations/383283759"
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
