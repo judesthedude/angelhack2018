@@ -20,3 +20,11 @@ export class Disaster{
     id:string;
     typeName:string;
 }
+
+export class Charity{
+    tagLine:string
+	charityName:string
+	websiteURL:string
+	accountabilityRatingscore:string
+	accountabilityRatingrating:string
+}

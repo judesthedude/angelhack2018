@@ -38,9 +38,10 @@ getDisastersByType(typeName: string, api: string, fields: string[]) : Promise<an
     //   .catch(resp => console.log(resp));
   }
 
-  getCharity() {
-
+  getCharity(typeName: string): Promise<any> {
+    return this.http.get('assets/'+typeName+'.json').toPromise();
   }
+
   getCharityHttp() {
     let url="https://api.data.charitynavigator.org/v2/Lists";
     let auth="?app_id=6d659581&app_key=a49581671d27edbeaad2a3bc60b3cd3a";

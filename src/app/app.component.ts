@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { ApiService } from './api/api.service';
-import { Disaster } from './api/rbody.model';
+import { Disaster, Charity } from './api/rbody.model';
 
 @Component({
   selector: 'app-root',
@@ -12,7 +12,9 @@ export class AppComponent implements OnInit{
   latitude: number = 43.6532;
   longitude: number = -79.3832;
   searchString: string;
-  disasterList:Disaster[];
+  disasterList:Disaster[]=[];
+  charityList:Charity[]=[];
+  selectedDisaster:string="43539"
   
 
   constructor(
@@ -23,6 +25,7 @@ export class AppComponent implements OnInit{
 
   ngOnInit() {
     this.getDisaster("sada")
+    this.getCharity("sad");
   }
 
   getDisaster(typeName: string){
@@ -47,6 +50,35 @@ export class AppComponent implements OnInit{
     });
   }
 
+  getReports(){
+    let tName="Fire Insect Infestation";
+    let fields=["disaster.id"];
+    this.api.getDisastersByType(this.selectedDisaster,"reports", fields).then(
+      resp => {
+        
+      }
+    )
+  }
+  getCharity(typeName:string){
+    let tName="Flash flood"
+    this.api.getCharity(tName.toLowerCase()).then(
+      resp => {
+        resp.forEach(element => {
+          let c = new Charity();
+          c.websiteURL=element['websiteURL'];
+          c.tagLine=element['tagLine'];
+          c.charityName=element['charityName'];
+          c.accountabilityRatingscore=element['currentRating']['accountabilityRating']['score'];
+          c.accountabilityRatingrating=element['currentRating']['accountabilityRating']['rating'];
+          this.charityList.push(c);
+          console.log(c);
+        });
+        console.log(resp[1])
+      }
+    ).catch(
+      resp => console.log(resp)
+    )
+  } 
   onClickCoord(e) {
     console.log(e);
   }
