@@ -1,6 +1,5 @@
 import { Injectable } from '@angular/core';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
-import { PARAMETERS } from '@angular/core/src/util/decorators';
 import { Param, Query } from './rbody.model';
 
 
@@ -40,6 +39,7 @@ getDisasters() {
   }
 
   getCharity() {
+    console.log("test")
   }
   getCharityHttp() {
     let url="https://api.data.charitynavigator.org/v2/Lists";

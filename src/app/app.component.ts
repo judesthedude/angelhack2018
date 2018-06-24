@@ -6,7 +6,7 @@ import { ApiService } from './api/api.service';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
-export class AppComponent implements OnInit{
+export class AppComponent {
   title = 'app';
   latitude: number = 43.6532;
   longitude: number = -79.3832;
@@ -16,6 +16,7 @@ export class AppComponent implements OnInit{
   ){
 
   }
+  showSideBar: boolean = false;
 
   ngOnInit() {
     console.log("test");
