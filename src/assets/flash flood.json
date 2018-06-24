@@ -1,0 +1,806 @@
+[
+    {
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8891&utm_source=DataAPI&utm_content=9989397e",
+        "mission": "Founded in 1981, The Cornelia de Lange Syndrome (CdLS) Foundation is a family support organization which exists to ensure early and accurate diagnosis of CdLS, promote research into the causes and manifestations of the syndrome, and help people with a diagnosis of CdLS, and others with similar characteristics, make informed decisions throughout their lifetime. The Foundation provides a host of services that attract, educate, and unite families touched by this rare birth disorder which causes individuals to develop at a slower rate, both physically and mentally. CdLS is a congenital syndrome, and individuals affected have common characteristics such as: low birth weight, slow growth and small stature, small head size, and limb differences.",
+        "websiteURL": "http://www.cdlsusa.org/",
+        "tagLine": "Reaching out, providing help, giving hope",
+        "charityName": "The Cornelia de Lange Syndrome Foundation",
+        "ein": "061057497",
+        "orgID": 8891,
+        "currentRating": {
+            "score": 100,
+            "ratingID": 130941,
+            "publicationDate": "2018-05-01T04:00:00.000Z",
+            "ratingImage": {
+                "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+                "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+            },
+            "rating": 4,
+            "financialRating": {
+                "score": 100,
+                "rating": 4
+            },
+            "accountabilityRating": {
+                "score": 100,
+                "rating": 4
+            }
+        },
+        "category": {
+            "categoryName": "Health",
+            "categoryID": 5,
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.categories&categoryid=5&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/categories/environment.png?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "cause": {
+            "causeID": 13,
+            "causeName": "Diseases, Disorders, and Disciplines",
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.results&cgid=5&cuid=13&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/causes/small/diseases.gif?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "irsClassification": {
+            "deductibility": "Contributions are deductible",
+            "subsection": "501(c)(3)",
+            "nteeType": null,
+            "foundationStatus": "Organization that normally receives no more than one-third of its support from gross investment income and unrelated business income and at the same time more than one-third of its support from contributions, fees, and gross receipts related to exempt purposes.  509(a)(2)",
+            "nteeSuffix": null,
+            "nteeClassification": null,
+            "deductibilityDetail": null,
+            "nteeCode": null,
+            "nteeLetter": "0"
+        },
+        "mailingAddress": {
+            "country": null,
+            "stateOrProvince": "CT",
+            "city": "Avon",
+            "postalCode": "06001",
+            "streetAddress1": "302 West Main Street",
+            "streetAddress2": "Suite 100"
+        },
+        "advisories": {
+            "severity": null,
+            "active": {
+                "_rapid_links": {
+                    "related": {
+                        "href": "https://api.data.charitynavigator.org/v2/Organizations/061057497/Advisories?status=ACTIVE"
+                    }
+                }
+            }
+        },
+        "organization": {
+            "charityName": "The Cornelia de Lange Syndrome Foundation",
+            "ein": "061057497",
+            "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8891&utm_source=DataAPI&utm_content=9989397e",
+            "_rapid_links": {
+                "related": {
+                    "href": "https://api.data.charitynavigator.org/v2/Organizations/061057497"
+                }
+            }
+        }
+    },
+    {
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=14066&utm_source=DataAPI&utm_content=9989397e",
+        "mission": "Conservation Foundation of the Gulf Coast works to protect the character, natural integrity and biodiversity of Florida's Gulf Coast bays, beaches and barrier islands by: Holding conservation easements and owning nature preserves, educating for responsible land stewardship, collaborating with individuals, organizations and communities.",
+        "websiteURL": "http://conservationfoundation.com/",
+        "tagLine": "Conservation through education and collaboration",
+        "charityName": "Conservation Foundation of the Gulf Coast",
+        "ein": "200345249",
+        "orgID": 14066,
+        "currentRating": {
+            "score": 100,
+            "ratingID": 124907,
+            "publicationDate": "2017-11-01T04:00:00.000Z",
+            "ratingImage": {
+                "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+                "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+            },
+            "rating": 4,
+            "financialRating": {
+                "score": 100,
+                "rating": 4
+            },
+            "accountabilityRating": {
+                "score": 100,
+                "rating": 4
+            }
+        },
+        "category": {
+            "categoryName": "Environment",
+            "categoryID": 4,
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.categories&categoryid=4&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/categories/education.png?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "cause": {
+            "causeID": 11,
+            "causeName": "Environmental Protection and Conservation",
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.results&cgid=4&cuid=11&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/causes/small/environmental_protection.gif?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "irsClassification": {
+            "deductibility": "Contributions are deductible",
+            "subsection": "501(c)(3)",
+            "nteeType": "Environmental Quality, Protection and Beautification ",
+            "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+            "nteeSuffix": null,
+            "nteeClassification": "Natural Resources Conservation and Protection",
+            "deductibilityDetail": null,
+            "nteeCode": "C30",
+            "nteeLetter": "C"
+        },
+        "mailingAddress": {
+            "country": null,
+            "stateOrProvince": "FL",
+            "city": "Osprey",
+            "postalCode": "34229",
+            "streetAddress1": "P.O. Box 902",
+            "streetAddress2": "400 Palmetto Avenue"
+        },
+        "advisories": {
+            "severity": null,
+            "active": {
+                "_rapid_links": {
+                    "related": {
+                        "href": "https://api.data.charitynavigator.org/v2/Organizations/200345249/Advisories?status=ACTIVE"
+                    }
+                }
+            }
+        },
+        "organization": {
+            "charityName": "Conservation Foundation of the Gulf Coast",
+            "ein": "200345249",
+            "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=14066&utm_source=DataAPI&utm_content=9989397e",
+            "_rapid_links": {
+                "related": {
+                    "href": "https://api.data.charitynavigator.org/v2/Organizations/200345249"
+                }
+            }
+        }
+    },
+    {
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=10205&utm_source=DataAPI&utm_content=9989397e",
+        "mission": "Physicians for Reproductive Health (formerly Physicians for Reproductive Choice and Health) was founded in 1992 by a small committee of concerned physicians in New York City, where we opened our first national office in 1995. Physicians for Reproductive Health unites the medical community and concerned supporters. Together, we work to improve access to comprehensive reproductive health care, including contraception and abortion, especially to meet the health care needs of economically disadvantaged patients.",
+        "websiteURL": "http://prh.org/",
+        "tagLine": "The voice of pro-choice physicians",
+        "charityName": "Physicians for Reproductive Health",
+        "ein": "133693391",
+        "orgID": 10205,
+        "currentRating": {
+            "score": 100,
+            "ratingID": 124686,
+            "publicationDate": "2017-11-01T04:00:00.000Z",
+            "ratingImage": {
+                "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+                "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+            },
+            "rating": 4,
+            "financialRating": {
+                "score": 100,
+                "rating": 4
+            },
+            "accountabilityRating": {
+                "score": 100,
+                "rating": 4
+            }
+        },
+        "category": {
+            "categoryName": "Human and Civil Rights",
+            "categoryID": 8,
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.categories&categoryid=8&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/categories/international.png?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "cause": {
+            "causeID": 21,
+            "causeName": "Advocacy and Education",
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.results&cgid=8&cuid=21&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/causes/small/advocacy.gif?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "irsClassification": {
+            "deductibility": "Contributions are deductible",
+            "subsection": "501(c)(3)",
+            "nteeType": "Civil Rights, Social Action, Advocacy",
+            "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+            "nteeSuffix": "0",
+            "nteeClassification": "Reproductive Rights",
+            "deductibilityDetail": null,
+            "nteeCode": "R61",
+            "nteeLetter": "R"
+        },
+        "mailingAddress": {
+            "country": null,
+            "stateOrProvince": "NY",
+            "city": "New York",
+            "postalCode": "10018",
+            "streetAddress1": "1430 Broadway",
+            "streetAddress2": "Suite 1614"
+        },
+        "advisories": {
+            "severity": null,
+            "active": {
+                "_rapid_links": {
+                    "related": {
+                        "href": "https://api.data.charitynavigator.org/v2/Organizations/133693391/Advisories?status=ACTIVE"
+                    }
+                }
+            }
+        },
+        "organization": {
+            "charityName": "Physicians for Reproductive Health",
+            "ein": "133693391",
+            "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=10205&utm_source=DataAPI&utm_content=9989397e",
+            "_rapid_links": {
+                "related": {
+                    "href": "https://api.data.charitynavigator.org/v2/Organizations/133693391"
+                }
+            }
+        }
+    },
+    {
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=12551&utm_source=DataAPI&utm_content=9989397e",
+        "mission": "Children's Scholarship Fund Philadelphia (CSFP) is a privately-funded program, established in 1998, whose mission is to broaden educational opportunities for K-8th grade students from low-income families in Philadelphia by providing them with tuition assistance. These four-year scholarships are need-based and awarded by random lottery. Currently, approximately 5,200 children have a CSFP scholarship to attend a private, parochial or other tuition-based community school. CSFP has awarded over 22,500 scholarships chosen from 165,000 applications in the last sixteen years.",
+        "websiteURL": "http://www.csfphiladelphia.org",
+        "tagLine": "Hope, Opportunity, Success",
+        "charityName": "Children's Scholarship Fund Philadelphia",
+        "ein": "233078729",
+        "orgID": 12551,
+        "currentRating": {
+            "score": 100,
+            "ratingID": 130297,
+            "publicationDate": "2018-04-01T04:00:00.000Z",
+            "ratingImage": {
+                "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+                "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+            },
+            "rating": 4,
+            "financialRating": {
+                "score": 100,
+                "rating": 4
+            },
+            "accountabilityRating": {
+                "score": 100,
+                "rating": 4
+            }
+        },
+        "category": {
+            "categoryName": "Education",
+            "categoryID": 3,
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.categories&categoryid=3&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/categories/community-development.png?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "cause": {
+            "causeID": 37,
+            "causeName": "Scholarship and Financial Support",
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.results&cgid=3&cuid=37&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/causes/small/scholarships.gif?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "irsClassification": {
+            "deductibility": "Contributions are deductible",
+            "subsection": "501(c)(3)",
+            "nteeType": "Educational Institutions and Related Activities",
+            "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+            "nteeSuffix": null,
+            "nteeClassification": "Scholarships, Student Financial Aid Services, Awards",
+            "deductibilityDetail": null,
+            "nteeCode": "B82",
+            "nteeLetter": "B"
+        },
+        "mailingAddress": {
+            "country": null,
+            "stateOrProvince": "PA",
+            "city": "Philadelphia",
+            "postalCode": "19110",
+            "streetAddress1": "100 South Broad Street",
+            "streetAddress2": "Suite 1200"
+        },
+        "advisories": {
+            "severity": null,
+            "active": {
+                "_rapid_links": {
+                    "related": {
+                        "href": "https://api.data.charitynavigator.org/v2/Organizations/233078729/Advisories?status=ACTIVE"
+                    }
+                }
+            }
+        },
+        "organization": {
+            "charityName": "Children's Scholarship Fund Philadelphia",
+            "ein": "233078729",
+            "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=12551&utm_source=DataAPI&utm_content=9989397e",
+            "_rapid_links": {
+                "related": {
+                    "href": "https://api.data.charitynavigator.org/v2/Organizations/233078729"
+                }
+            }
+        }
+    },
+    {
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=13885&utm_source=DataAPI&utm_content=9989397e",
+        "mission": "Founded in 2001, Spread the Word Nevada is dedicated to advancing early childhood literacy by placing books into the hands and homes of children within Southern Nevada's at-risk, low income communities. Through community collaboration, mentorship and family partnership programs, Spread the Word Nevada fosters reading and language development opportunities ultimately leading to brighter academic and economic futures for these children. We are dedicated to changing the lives of our at-risk children, one book at a time.",
+        "websiteURL": "http://spreadthewordnevada.org/",
+        "tagLine": "Changing lives, one book at a time",
+        "charityName": "Spread the Word Nevada",
+        "ein": "223829041",
+        "orgID": 13885,
+        "currentRating": {
+            "score": 100,
+            "ratingID": 130360,
+            "publicationDate": "2018-05-01T04:00:00.000Z",
+            "ratingImage": {
+                "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+                "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+            },
+            "rating": 4,
+            "financialRating": {
+                "score": 100,
+                "rating": 4
+            },
+            "accountabilityRating": {
+                "score": 100,
+                "rating": 4
+            }
+        },
+        "category": {
+            "categoryName": "Education",
+            "categoryID": 3,
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.categories&categoryid=3&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/categories/community-development.png?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "cause": {
+            "causeID": 36,
+            "causeName": "Early Childhood Programs and Services",
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.results&cgid=3&cuid=36&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/causes/small/early_childhood.gif?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "irsClassification": {
+            "deductibility": "Contributions are deductible",
+            "subsection": "501(c)(3)",
+            "nteeType": "Youth Development",
+            "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+            "nteeSuffix": null,
+            "nteeClassification": "Youth Development Programs, Other",
+            "deductibilityDetail": null,
+            "nteeCode": "O50",
+            "nteeLetter": "O"
+        },
+        "mailingAddress": {
+            "country": null,
+            "stateOrProvince": "NV",
+            "city": "Henderson",
+            "postalCode": "89074",
+            "streetAddress1": "1065 American Pacific Drive",
+            "streetAddress2": "Suite 160"
+        },
+        "advisories": {
+            "severity": null,
+            "active": {
+                "_rapid_links": {
+                    "related": {
+                        "href": "https://api.data.charitynavigator.org/v2/Organizations/223829041/Advisories?status=ACTIVE"
+                    }
+                }
+            }
+        },
+        "organization": {
+            "charityName": "Spread the Word Nevada",
+            "ein": "223829041",
+            "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=13885&utm_source=DataAPI&utm_content=9989397e",
+            "_rapid_links": {
+                "related": {
+                    "href": "https://api.data.charitynavigator.org/v2/Organizations/223829041"
+                }
+            }
+        }
+    },
+    {
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4553&utm_source=DataAPI&utm_content=9989397e",
+        "mission": "The Rotary Foundation is a not-for-profit corporation funded solely by voluntary contributions from members and friends of Rotary who support its mission to advance world understanding, goodwill, and peace. \r\n\r\nUsing Rotary Foundation grants, Rotary's 34,000 clubs across the globe develop and carry out sustainable humanitarian projects and provide scholarships and professional training opportunities that promote peace, fight disease, provide clean water, sustain mothers and children, improve education, and strengthen local economies. \r\n\r\nThe Foundation is a worldwide leader in the efforts to eradicate polio through its partnership with the World Health Organization, UNICEF, the U.S. Centers for Disease Control and Prevention, and the Bill & Melinda Gates Foundation. When Rotary launched its PolioPlus program in 1985, more than 350,000 people were afflicted with polio each year, and the disease was endemic in more than 125 countries. Since 1988, Rotary and its partners in the Global Polio Eradication Initiative have immunized over 2.5 billion children, reducing the incidence of polio by 99 percent and eradicating it from all but three countries. Rotary has contributed more than $1 billion and many thousands of hours to eradication effort. \r\n\r\nThe Foundation also funds the training of hundreds of peacemakers through the Rotary Peace Center program, which enables fellows to pursue a master's degree or professional certificate at one of Rotary's partner universities. Through academic training, study, and practice, the fellows become leaders who promote peace and aid conflict resolution in their communities and around the world.",
+        "websiteURL": "https://www.rotary.org/myrotary/en/rotary-foundation",
+        "tagLine": "Enabling Rotarians to advance world understanding, goodwill, and peace",
+        "charityName": "The Rotary Foundation of Rotary International",
+        "ein": "363245072",
+        "orgID": 4553,
+        "currentRating": {
+            "score": 100,
+            "ratingID": 125493,
+            "publicationDate": "2017-12-01T05:00:00.000Z",
+            "ratingImage": {
+                "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+                "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+            },
+            "rating": 4,
+            "financialRating": {
+                "score": 100,
+                "rating": 4
+            },
+            "accountabilityRating": {
+                "score": 100,
+                "rating": 4
+            }
+        },
+        "category": {
+            "categoryName": "International",
+            "categoryID": 7,
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.categories&categoryid=7&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/categories/human.png?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "cause": {
+            "causeID": 19,
+            "causeName": "International Peace, Security, and Affairs",
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.results&cgid=7&cuid=19&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/causes/small/international_peace.gif?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "irsClassification": {
+            "deductibility": "Contributions are deductible",
+            "subsection": "501(c)(3)",
+            "nteeType": "International, Foreign Affairs and National Security",
+            "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+            "nteeSuffix": "3",
+            "nteeClassification": "Single Organization Support ",
+            "deductibilityDetail": null,
+            "nteeCode": "Q11",
+            "nteeLetter": "Q"
+        },
+        "mailingAddress": {
+            "country": null,
+            "stateOrProvince": "IL",
+            "city": "Evanston",
+            "postalCode": "60201",
+            "streetAddress1": "One Rotary Center",
+            "streetAddress2": "1560 Sherman Avenue"
+        },
+        "donationAddress": {
+            "country": null,
+            "stateOrProvince": "IL",
+            "city": "Chicago",
+            "postalCode": "60693",
+            "streetAddress1": "14280 Collections Center Drive",
+            "streetAddress2": null
+        },
+        "advisories": {
+            "severity": null,
+            "active": {
+                "_rapid_links": {
+                    "related": {
+                        "href": "https://api.data.charitynavigator.org/v2/Organizations/363245072/Advisories?status=ACTIVE"
+                    }
+                }
+            }
+        },
+        "organization": {
+            "charityName": "The Rotary Foundation of Rotary International",
+            "ein": "363245072",
+            "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4553&utm_source=DataAPI&utm_content=9989397e",
+            "_rapid_links": {
+                "related": {
+                    "href": "https://api.data.charitynavigator.org/v2/Organizations/363245072"
+                }
+            }
+        }
+    },
+    {
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4632&utm_source=DataAPI&utm_content=9989397e",
+        "mission": "Founded in 1918, United Way of Central Indiana helps sustain vital human services for those who need help most while reducing such needs for future generations. We help improve lives and build stronger communities through our support of innovative, practical and efficient human services programs and partners that address local needs. We assess community conditions and bring together the best resources in Central Indiana in order to provide help where it's needed most. United Way of Central Indiana supports the entire community, providing solutions that address today's needs and reduce tomorrow's. Our community priorities are sustaining vital human services for those who need help most, and helping kids enter school ready to learn and graduate ready to earn.",
+        "websiteURL": "http://www.uwci.org",
+        "tagLine": "Live united",
+        "charityName": "United Way of Central Indiana",
+        "ein": "351007590",
+        "orgID": 4632,
+        "currentRating": {
+            "score": 100,
+            "ratingID": 131673,
+            "publicationDate": "2018-06-01T04:00:00.000Z",
+            "ratingImage": {
+                "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+                "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+            },
+            "rating": 4,
+            "financialRating": {
+                "score": 100,
+                "rating": 4
+            },
+            "accountabilityRating": {
+                "score": 100,
+                "rating": 4
+            }
+        },
+        "category": {
+            "categoryName": "Community Development",
+            "categoryID": 10,
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.categories&categoryid=10&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/categories/religion.png?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "cause": {
+            "causeID": 42,
+            "causeName": "United Ways",
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.results&cgid=10&cuid=42&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/causes/small/United_Way.gif?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "irsClassification": {
+            "deductibility": "Contributions are deductible",
+            "subsection": "501(c)(3)",
+            "nteeType": "Philanthropy, Voluntarism and Grantmaking Foundations",
+            "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+            "nteeSuffix": "0",
+            "nteeClassification": "Fund Raising Organizations That Cross Categories",
+            "deductibilityDetail": null,
+            "nteeCode": "T70",
+            "nteeLetter": "T"
+        },
+        "mailingAddress": {
+            "country": null,
+            "stateOrProvince": "IN",
+            "city": "Indianapolis",
+            "postalCode": "46208    ",
+            "streetAddress1": "2955 North Meridian Street",
+            "streetAddress2": "Suite 300"
+        },
+        "donationAddress": {
+            "country": null,
+            "stateOrProvince": "IN",
+            "city": "Indianapolis",
+            "postalCode": "46208",
+            "streetAddress1": "P.O. Box 88409",
+            "streetAddress2": null
+        },
+        "advisories": {
+            "severity": null,
+            "active": {
+                "_rapid_links": {
+                    "related": {
+                        "href": "https://api.data.charitynavigator.org/v2/Organizations/351007590/Advisories?status=ACTIVE"
+                    }
+                }
+            }
+        },
+        "organization": {
+            "charityName": "United Way of Central Indiana",
+            "ein": "351007590",
+            "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4632&utm_source=DataAPI&utm_content=9989397e",
+            "_rapid_links": {
+                "related": {
+                    "href": "https://api.data.charitynavigator.org/v2/Organizations/351007590"
+                }
+            }
+        }
+    },
+    {
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=12780&utm_source=DataAPI&utm_content=9989397e",
+        "mission": "Lifesong for Orphans seeks to mobilize the Church, His body, where each member can provide a unique and special service: some to adopt, some to care, some to give. A struggling business, a simple vow to further God's Kingdom, and many divine encounters. These would be used as catalysts to begin, what is now, Lifesong for Orphans. With a family culture and a heart for the world's fatherless, Lifesong for Orphans offers adoption financial assistance, foster care support, church and ministry partnerships, and international orphan care by serving advocates who help carry out this work of bringing joy and purpose to orphans.",
+        "websiteURL": "http://www.lifesongfororphans.org",
+        "tagLine": "Bringing joy and purpose to orphans",
+        "charityName": "Lifesong for Orphans",
+        "ein": "351902841",
+        "orgID": 12780,
+        "currentRating": {
+            "score": 100,
+            "ratingID": 124828,
+            "publicationDate": "2017-11-01T04:00:00.000Z",
+            "ratingImage": {
+                "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+                "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+            },
+            "rating": 4,
+            "financialRating": {
+                "score": 100,
+                "rating": 4
+            },
+            "accountabilityRating": {
+                "score": 100,
+                "rating": 4
+            }
+        },
+        "category": {
+            "categoryName": "Human Services",
+            "categoryID": 6,
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.categories&categoryid=6&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/categories/health.png?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "cause": {
+            "causeID": 17,
+            "causeName": "Children's and Family Services",
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.results&cgid=6&cuid=17&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/causes/small/children_family.gif?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "irsClassification": {
+            "deductibility": "Contributions are deductible",
+            "subsection": "501(c)(3)",
+            "nteeType": "International, Foreign Affairs and National Security",
+            "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+            "nteeSuffix": "0",
+            "nteeClassification": "International Relief",
+            "deductibilityDetail": null,
+            "nteeCode": "Q33",
+            "nteeLetter": "Q"
+        },
+        "mailingAddress": {
+            "country": null,
+            "stateOrProvince": "IL",
+            "city": "Gridley",
+            "postalCode": "61744",
+            "streetAddress1": "P. O. Box 40",
+            "streetAddress2": "202 North Ford Street"
+        },
+        "advisories": {
+            "severity": null,
+            "active": {
+                "_rapid_links": {
+                    "related": {
+                        "href": "https://api.data.charitynavigator.org/v2/Organizations/351902841/Advisories?status=ACTIVE"
+                    }
+                }
+            }
+        },
+        "organization": {
+            "charityName": "Lifesong for Orphans",
+            "ein": "351902841",
+            "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=12780&utm_source=DataAPI&utm_content=9989397e",
+            "_rapid_links": {
+                "related": {
+                    "href": "https://api.data.charitynavigator.org/v2/Organizations/351902841"
+                }
+            }
+        }
+    },
+    {
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=6151&utm_source=DataAPI&utm_content=9989397e",
+        "mission": "PAWS Chicago is the city's largest no kill humane organization, focused on implementing solutions to end the killing of homeless pets. Since PAWS Chicago's founding in 1997, the number of homeless dogs and cats killed annually has dropped by nearly 80 percent: from more than 42,000 homeless pets killed in 1997 to under 10,000. PAWS Chicago is working to build a no kill Chicago - a city where pets are no longer destroyed just because they are homeless. PAWS Chicago will find new homes for nearly 6,000 homeless pets this year at the state-of-the-art Pippen Fasseas Lincoln Park Adoption, the satellite Glenn L. Felner North Shore Adoption Center and nearly weekly on- and off-site adoption events. The PAWS Chicago Lurie Spay/Neuter Clinic, the largest free spay/neuter clinic in Midwest, will sterilize more than 18,000 pets of low-income families this year.",
+        "websiteURL": "http://www.pawschicago.org",
+        "tagLine": "Pets are worth saving",
+        "charityName": "PAWS Chicago",
+        "ein": "364219778",
+        "orgID": 6151,
+        "currentRating": {
+            "score": 100,
+            "ratingID": 131828,
+            "publicationDate": "2018-06-01T04:00:00.000Z",
+            "ratingImage": {
+                "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+                "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+            },
+            "rating": 4,
+            "financialRating": {
+                "score": 100,
+                "rating": 4
+            },
+            "accountabilityRating": {
+                "score": 100,
+                "rating": 4
+            }
+        },
+        "category": {
+            "categoryName": "Animals",
+            "categoryID": 1,
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.categories&categoryid=1&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/categories/animals.png?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "cause": {
+            "causeID": 2,
+            "causeName": "Animal Rights, Welfare, and Services",
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.results&cgid=1&cuid=2&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/causes/small/animal_rights.gif?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "irsClassification": {
+            "deductibility": "Contributions are deductible",
+            "subsection": "501(c)(3)",
+            "nteeType": "Animal-Related",
+            "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+            "nteeSuffix": "0",
+            "nteeClassification": "Animal Protection and Welfare",
+            "deductibilityDetail": null,
+            "nteeCode": "D20",
+            "nteeLetter": "D"
+        },
+        "mailingAddress": {
+            "country": null,
+            "stateOrProvince": "IL",
+            "city": "Chicago",
+            "postalCode": "60614",
+            "streetAddress1": "1997 North Clybourn Ave.",
+            "streetAddress2": null
+        },
+        "advisories": {
+            "severity": null,
+            "active": {
+                "_rapid_links": {
+                    "related": {
+                        "href": "https://api.data.charitynavigator.org/v2/Organizations/364219778/Advisories?status=ACTIVE"
+                    }
+                }
+            }
+        },
+        "organization": {
+            "charityName": "PAWS Chicago",
+            "ein": "364219778",
+            "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=6151&utm_source=DataAPI&utm_content=9989397e",
+            "_rapid_links": {
+                "related": {
+                    "href": "https://api.data.charitynavigator.org/v2/Organizations/364219778"
+                }
+            }
+        }
+    },
+    {
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=13128&utm_source=DataAPI&utm_content=9989397e",
+        "mission": "Hope For Haiti's Children (HFHC) is a faith-based organization founded in 1995 in order to demonstrate Christian compassion to poverty-bound Haitian children and their families, providing opportunities for these children to become leaders in their homes, churches, and communities. Today, there are over 1,600 children sponsored in ten different schools associated with churches of Christ in central and southern Haiti. Currently Hope for Haiti's Children average 100 new students per year to the Child Education Sponsorship program. HFHC follows a sustainable approach in this work, having established an in-country network of trusted local Christian educators, business leaders, and other professionals who carry out the day-to-day operations.",
+        "websiteURL": "http://hopeforhaitischildren.org/",
+        "tagLine": "Making a Difference...One Child at a Time",
+        "charityName": "Hope for Haiti's Children",
+        "ein": "311811917",
+        "orgID": 13128,
+        "currentRating": {
+            "score": 100,
+            "ratingID": 127347,
+            "publicationDate": "2018-02-01T05:00:00.000Z",
+            "ratingImage": {
+                "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+                "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+            },
+            "rating": 4,
+            "financialRating": {
+                "score": 100,
+                "rating": 4
+            },
+            "accountabilityRating": {
+                "score": 100,
+                "rating": 4
+            }
+        },
+        "category": {
+            "categoryName": "International",
+            "categoryID": 7,
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.categories&categoryid=7&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/categories/human.png?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "cause": {
+            "causeID": 20,
+            "causeName": "Development and Relief Services",
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.results&cgid=7&cuid=20&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/causes/small/development_relief.gif?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "irsClassification": {
+            "deductibility": "Contributions are deductible",
+            "subsection": "501(c)(3)",
+            "nteeType": "Diseases, Disorders, Medical Disciplines",
+            "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+            "nteeSuffix": "8",
+            "nteeClassification": "Fund Raising and/or Fund Distribution ",
+            "deductibilityDetail": null,
+            "nteeCode": "G12",
+            "nteeLetter": "G"
+        },
+        "mailingAddress": {
+            "country": null,
+            "stateOrProvince": "OH",
+            "city": "Cincinnati",
+            "postalCode": "45241",
+            "streetAddress1": "12020 Southwick Lane",
+            "streetAddress2": null
+        },
+        "donationAddress": {
+            "country": null,
+            "stateOrProvince": "OH",
+            "city": "Cincinnati",
+            "postalCode": "45262",
+            "streetAddress1": "P.O. Box 62328",
+            "streetAddress2": null
+        },
+        "advisories": {
+            "severity": null,
+            "active": {
+                "_rapid_links": {
+                    "related": {
+                        "href": "https://api.data.charitynavigator.org/v2/Organizations/311811917/Advisories?status=ACTIVE"
+                    }
+                }
+            }
+        },
+        "organization": {
+            "charityName": "Hope for Haiti's Children",
+            "ein": "311811917",
+            "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=13128&utm_source=DataAPI&utm_content=9989397e",
+            "_rapid_links": {
+                "related": {
+                    "href": "https://api.data.charitynavigator.org/v2/Organizations/311811917"
+                }
+            }
+        }
+    }
+]

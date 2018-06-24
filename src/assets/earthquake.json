@@ -1,0 +1,470 @@
+[
+    {
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=12573&utm_source=DataAPI&utm_content=9989397e",
+        "mission": "Every year, millions of families around the world are made homeless because of humanitarian crises and natural disasters such as earthquakes, tsunamis and floods. <br><br>ShelterBox is an international, nonprofit organization that responds immediately, by providing humanitarian relief in the form of supplies that bring hope, independence and a sense of normalcy to the most vulnerable people.<br><br>Since 2000, the organization has delivered boxes of aid and other supplies such as tents, water filters, stoves, blankets and other tools to help families survive and rebuild their lives in the aftermath of more than 290 disasters in over 95 countries worldwide.",
+        "websiteURL": "http://www.shelterboxusa.org/",
+        "tagLine": "Delivering emergency shelter to people affected by disaster and conflict worldwide.",
+        "charityName": "ShelterBox USA",
+        "ein": "200471604",
+        "orgID": 12573,
+        "currentRating": {
+            "score": 95.81,
+            "ratingID": 128983,
+            "publicationDate": "2018-02-01T05:00:00.000Z",
+            "ratingImage": {
+                "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+                "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+            },
+            "rating": 4,
+            "financialRating": {
+                "score": 94.08,
+                "rating": 4
+            },
+            "accountabilityRating": {
+                "score": 100,
+                "rating": 4
+            }
+        },
+        "category": {
+            "categoryName": "International",
+            "categoryID": 7,
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.categories&categoryid=7&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/categories/human.png?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "cause": {
+            "causeID": 20,
+            "causeName": "Development and Relief Services",
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.results&cgid=7&cuid=20&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/causes/small/development_relief.gif?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "irsClassification": {
+            "deductibility": "Contributions are deductible",
+            "subsection": "501(c)(3)",
+            "nteeType": "Human Services - Multipurpose and Other",
+            "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+            "nteeSuffix": null,
+            "nteeClassification": "Services to Promote the Independence of Specific Populations",
+            "deductibilityDetail": null,
+            "nteeCode": "P80",
+            "nteeLetter": "P"
+        },
+        "mailingAddress": {
+            "country": null,
+            "stateOrProvince": "FL",
+            "city": "Lakewood Ranch",
+            "postalCode": "34242",
+            "streetAddress1": "7359 Merchant Court",
+            "streetAddress2": null
+        },
+        "advisories": {
+            "severity": null,
+            "active": {
+                "_rapid_links": {
+                    "related": {
+                        "href": "https://api.data.charitynavigator.org/v2/Organizations/200471604/Advisories?status=ACTIVE"
+                    }
+                }
+            }
+        },
+        "organization": {
+            "charityName": "ShelterBox USA",
+            "ein": "200471604",
+            "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=12573&utm_source=DataAPI&utm_content=9989397e",
+            "_rapid_links": {
+                "related": {
+                    "href": "https://api.data.charitynavigator.org/v2/Organizations/200471604"
+                }
+            }
+        }
+    },
+    {
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8825&utm_source=DataAPI&utm_content=9989397e",
+        "mission": "In 1979, Kidspace Children's Museum was launched to address a critical educational need in the San Gabriel Valley: increased access to the arts, humanities and sciences for children. Kidspace's mission is to enrich the lives of children through an interactive learning environment that is fun for children and families. The museum is committed to providing exhibits and programs in the arts, sciences and humanities that promote imagination, exploration and discovery. Kidspace features a variety of educational programs, world-class exhibitory, and 2.2 acres of outdoor learning gardens. At Kidspace, children can unleash an earthquake, feed giant bugs, craft art through nature and climb raindrops 40 feet into the air. In July of 2012, Kidspace opened a new 30,000 square foot expansion, The Robert and Mary Galvin Physics Forest. The Galvin Physics Forest offers 13 large scale exhibits set in a unique outdoor environment, designed to engage and interest children in the physical sciences. ",
+        "websiteURL": "http://www.kidspacemuseum.org",
+        "tagLine": "Explore. Investigate. Create.",
+        "charityName": "Kidspace Children's Museum",
+        "ein": "953501213",
+        "orgID": 8825,
+        "currentRating": {
+            "score": 93.52,
+            "ratingID": 128586,
+            "publicationDate": "2018-03-01T05:00:00.000Z",
+            "ratingImage": {
+                "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+                "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+            },
+            "rating": 4,
+            "financialRating": {
+                "score": 91.77,
+                "rating": 4
+            },
+            "accountabilityRating": {
+                "score": 96,
+                "rating": 4
+            }
+        },
+        "category": {
+            "categoryName": "Arts, Culture, Humanities",
+            "categoryID": 2,
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.categories&categoryid=2&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/categories/arts.png?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "cause": {
+            "causeID": 3,
+            "causeName": "Museums",
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.results&cgid=2&cuid=3&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/causes/small/museums.gif?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "irsClassification": {
+            "deductibility": "Contributions are deductible",
+            "subsection": "501(c)(3)",
+            "nteeType": "Arts, Culture and Humanities",
+            "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+            "nteeSuffix": "0",
+            "nteeClassification": "Children's Museums",
+            "deductibilityDetail": null,
+            "nteeCode": "A52",
+            "nteeLetter": "A"
+        },
+        "mailingAddress": {
+            "country": null,
+            "stateOrProvince": "CA",
+            "city": "Pasadena",
+            "postalCode": "91103",
+            "streetAddress1": "480 North Arroyo Boulevard",
+            "streetAddress2": null
+        },
+        "advisories": {
+            "severity": null,
+            "active": {
+                "_rapid_links": {
+                    "related": {
+                        "href": "https://api.data.charitynavigator.org/v2/Organizations/953501213/Advisories?status=ACTIVE"
+                    }
+                }
+            }
+        },
+        "organization": {
+            "charityName": "Kidspace Children's Museum",
+            "ein": "953501213",
+            "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8825&utm_source=DataAPI&utm_content=9989397e",
+            "_rapid_links": {
+                "related": {
+                    "href": "https://api.data.charitynavigator.org/v2/Organizations/953501213"
+                }
+            }
+        }
+    },
+    {
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3437&utm_source=DataAPI&utm_content=9989397e",
+        "mission": "Founded in 1907 to care for the orphans of the San Francisco earthquake, Catholic Charities has been a leader in providing human services to the Bay Area for more than 100 years. Today, we operate more than 30 programs throughout San Francisco, Marin, and San Mateo Counties. These programs change the lives of children, families in crisis, single parents, the homeless, the elderly and disabled, those living with HIV/AIDS, and refugees and immigrants. Our CYO programs bring youth - of all socioeconomic backgrounds - together to take part in organized athletic programs, summer camp, and environmental education.",
+        "websiteURL": "http://www.CatholicCharitiesSF.org/",
+        "tagLine": "Serving people of all faiths since 1907",
+        "charityName": "Catholic Charities CYO, Archdiocese of San Francisco",
+        "ein": "941498472",
+        "orgID": 3437,
+        "currentRating": {
+            "score": 90.66,
+            "ratingID": 125390,
+            "publicationDate": "2017-12-22T05:00:00.000Z",
+            "ratingImage": {
+                "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+                "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+            },
+            "rating": 4,
+            "financialRating": {
+                "score": 86.8,
+                "rating": 3
+            },
+            "accountabilityRating": {
+                "score": 100,
+                "rating": 4
+            }
+        },
+        "category": {
+            "categoryName": "Community Development",
+            "categoryID": 10,
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.categories&categoryid=10&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/categories/religion.png?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "cause": {
+            "causeID": 27,
+            "causeName": "Housing and Neighborhood Development",
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.results&cgid=10&cuid=27&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/causes/small/housing.gif?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "irsClassification": {
+            "deductibility": "Contributions are deductible",
+            "subsection": "501(c)(3)",
+            "nteeType": "Human Services - Multipurpose and Other",
+            "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+            "nteeSuffix": "Z",
+            "nteeClassification": "Human Service Organizations - Multipurpose",
+            "deductibilityDetail": null,
+            "nteeCode": "P20",
+            "nteeLetter": "P"
+        },
+        "mailingAddress": {
+            "country": null,
+            "stateOrProvince": "CA",
+            "city": "San Francisco",
+            "postalCode": "94109",
+            "streetAddress1": "990 Eddy Street",
+            "streetAddress2": null
+        },
+        "advisories": {
+            "severity": null,
+            "active": {
+                "_rapid_links": {
+                    "related": {
+                        "href": "https://api.data.charitynavigator.org/v2/Organizations/941498472/Advisories?status=ACTIVE"
+                    }
+                }
+            }
+        },
+        "organization": {
+            "charityName": "Catholic Charities CYO, Archdiocese of San Francisco",
+            "ein": "941498472",
+            "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3437&utm_source=DataAPI&utm_content=9989397e",
+            "_rapid_links": {
+                "related": {
+                    "href": "https://api.data.charitynavigator.org/v2/Organizations/941498472"
+                }
+            }
+        }
+    },
+    {
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3738&utm_source=DataAPI&utm_content=9989397e",
+        "mission": "The Fund for Armenian Relief (FAR) was founded in 1988 in response to a devastating earthquake. FAR provides short-term emergency relief and implements long-term programs for the economic growth and social development of Armenia. It helps the most vulnerable segments of the population - children and the elderly - and prepares the youth and professionals to drive the country's new democratic state. FAR implements a wide range of programs in Armenia and Karabagh: from emergency relief to construction to education, medical aid, and economic development. Since its inception, FAR has channeled more than $265 million in humanitarian assistance to Armenia.",
+        "websiteURL": "http://www.farusa.org",
+        "tagLine": "Honor the past, empower the present, ensure the future",
+        "charityName": "Fund for Armenian Relief",
+        "ein": "133706646",
+        "orgID": 3738,
+        "currentRating": {
+            "score": 89.39,
+            "ratingID": 129848,
+            "publicationDate": "2018-04-01T04:00:00.000Z",
+            "ratingImage": {
+                "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+                "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+            },
+            "rating": 3,
+            "financialRating": {
+                "score": 100,
+                "rating": 4
+            },
+            "accountabilityRating": {
+                "score": 85,
+                "rating": 3
+            }
+        },
+        "category": {
+            "categoryName": "International",
+            "categoryID": 7,
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.categories&categoryid=7&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/categories/human.png?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "cause": {
+            "causeID": 20,
+            "causeName": "Development and Relief Services",
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.results&cgid=7&cuid=20&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/causes/small/development_relief.gif?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "irsClassification": {
+            "deductibility": "Contributions are deductible",
+            "subsection": "501(c)(3)",
+            "nteeType": "International, Foreign Affairs and National Security",
+            "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+            "nteeSuffix": "0",
+            "nteeClassification": "International Development, Relief Services",
+            "deductibilityDetail": null,
+            "nteeCode": "Q30",
+            "nteeLetter": "Q"
+        },
+        "mailingAddress": {
+            "country": null,
+            "stateOrProvince": "NY",
+            "city": "New York",
+            "postalCode": "10016    ",
+            "streetAddress1": "630 Second Avenue",
+            "streetAddress2": null
+        },
+        "advisories": {
+            "severity": null,
+            "active": {
+                "_rapid_links": {
+                    "related": {
+                        "href": "https://api.data.charitynavigator.org/v2/Organizations/133706646/Advisories?status=ACTIVE"
+                    }
+                }
+            }
+        },
+        "organization": {
+            "charityName": "Fund for Armenian Relief",
+            "ein": "133706646",
+            "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3738&utm_source=DataAPI&utm_content=9989397e",
+            "_rapid_links": {
+                "related": {
+                    "href": "https://api.data.charitynavigator.org/v2/Organizations/133706646"
+                }
+            }
+        }
+    },
+    {
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=10127&utm_source=DataAPI&utm_content=9989397e",
+        "mission": "Through research, education and advocacy, SPUR (the San Francisco Planning and Urban Research Association) promotes good planning and good government in the San Francisco Bay Area. SPUR's history dates back to 1910, when a group of young city leaders came together to improve the quality of housing after the 1906 earthquake and fire. SPUR was reorganized in 1959 to fight for the revitalization of San Francisco as the Bay Area's central city. It was given the charge of channeling growth away from suburban sprawl and back into the urban core. Throughout the 1960s, SPUR worked to build support for the land use, transportation and investment strategies that could support center-oriented growth and urban economic vitality. Since then, SPUR has been involved with virtually every major planning decision in the city.",
+        "websiteURL": "http://www.spur.org/",
+        "tagLine": "Ideas and action for a better city",
+        "charityName": "SPUR",
+        "ein": "941498232",
+        "orgID": 10127,
+        "currentRating": {
+            "score": 89.21,
+            "ratingID": 124680,
+            "publicationDate": "2017-10-01T04:00:00.000Z",
+            "ratingImage": {
+                "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+                "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+            },
+            "rating": 3,
+            "financialRating": {
+                "score": 89.44,
+                "rating": 3
+            },
+            "accountabilityRating": {
+                "score": 89,
+                "rating": 3
+            }
+        },
+        "category": {
+            "categoryName": "Research and Public Policy",
+            "categoryID": 11,
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.categories&categoryid=11&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/categories/research.png?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "cause": {
+            "causeID": 24,
+            "causeName": "Social and Public Policy Research",
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.results&cgid=11&cuid=24&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/causes/small/research_public_policy.gif?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "irsClassification": {
+            "deductibility": "Contributions are deductible",
+            "subsection": "501(c)(3)",
+            "nteeType": null,
+            "foundationStatus": "Organization that normally receives no more than one-third of its support from gross investment income and unrelated business income and at the same time more than one-third of its support from contributions, fees, and gross receipts related to exempt purposes.  509(a)(2)",
+            "nteeSuffix": null,
+            "nteeClassification": null,
+            "deductibilityDetail": null,
+            "nteeCode": null,
+            "nteeLetter": "0"
+        },
+        "mailingAddress": {
+            "country": null,
+            "stateOrProvince": "CA",
+            "city": "San Francisco",
+            "postalCode": "94105",
+            "streetAddress1": "654 Mission Street",
+            "streetAddress2": null
+        },
+        "advisories": {
+            "severity": null,
+            "active": {
+                "_rapid_links": {
+                    "related": {
+                        "href": "https://api.data.charitynavigator.org/v2/Organizations/941498232/Advisories?status=ACTIVE"
+                    }
+                }
+            }
+        },
+        "organization": {
+            "charityName": "SPUR",
+            "ein": "941498232",
+            "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=10127&utm_source=DataAPI&utm_content=9989397e",
+            "_rapid_links": {
+                "related": {
+                    "href": "https://api.data.charitynavigator.org/v2/Organizations/941498232"
+                }
+            }
+        }
+    },
+    {
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4435&utm_source=DataAPI&utm_content=9989397e",
+        "mission": "The San Francisco Symphony (SFS) gave its first concerts in 1911, revitalizing San Francisco's cultural life after the 1906 earthquake. Since that time, the SFS has grown in stature and acclaim, continuing and expanding its tradition of innovation. The SFS sets the highest possible standard for excellence in musical performance at home and around the world. SFS enriches, serves, and shapes cultural life throughout the spectrum of Bay Area communities. To fill the gap left by cuts in school music programs, SFS provides the most extensive education and community programs offered by any American orchestra today. Nearly 30,000 students throughout the Bay Area hear the SFS each year in its Concerts for Kids program, which began in 1919.",
+        "websiteURL": "http://www.sfsymphony.org",
+        "tagLine": "Enriching, serving, and shaping cultural life throughout the Bay Area",
+        "charityName": "San Francisco Symphony",
+        "ein": "941156284",
+        "orgID": 4435,
+        "currentRating": {
+            "score": 88.19,
+            "ratingID": 128076,
+            "publicationDate": "2018-03-01T05:00:00.000Z",
+            "ratingImage": {
+                "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+                "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+            },
+            "rating": 3,
+            "financialRating": {
+                "score": 85.34,
+                "rating": 3
+            },
+            "accountabilityRating": {
+                "score": 92,
+                "rating": 4
+            }
+        },
+        "category": {
+            "categoryName": "Arts, Culture, Humanities",
+            "categoryID": 2,
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.categories&categoryid=2&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/categories/arts.png?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "cause": {
+            "causeID": 4,
+            "causeName": "Performing Arts",
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.results&cgid=2&cuid=4&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/causes/small/performing_arts.gif?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "irsClassification": {
+            "deductibility": "Contributions are deductible",
+            "subsection": "501(c)(3)",
+            "nteeType": "Arts, Culture and Humanities",
+            "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+            "nteeSuffix": "0",
+            "nteeClassification": "Symphony Orchestras",
+            "deductibilityDetail": null,
+            "nteeCode": "A69",
+            "nteeLetter": "A"
+        },
+        "mailingAddress": {
+            "country": null,
+            "stateOrProvince": "CA",
+            "city": "San Francisco",
+            "postalCode": "94102    ",
+            "streetAddress1": "Davies Symphony Hall",
+            "streetAddress2": "201 Van Ness Avenue"
+        },
+        "advisories": {
+            "severity": null,
+            "active": {
+                "_rapid_links": {
+                    "related": {
+                        "href": "https://api.data.charitynavigator.org/v2/Organizations/941156284/Advisories?status=ACTIVE"
+                    }
+                }
+            }
+        },
+        "organization": {
+            "charityName": "San Francisco Symphony",
+            "ein": "941156284",
+            "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4435&utm_source=DataAPI&utm_content=9989397e",
+            "_rapid_links": {
+                "related": {
+                    "href": "https://api.data.charitynavigator.org/v2/Organizations/941156284"
+                }
+            }
+        }
+    }
+]

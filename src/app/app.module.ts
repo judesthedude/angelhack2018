@@ -4,7 +4,7 @@ import { AgmCoreModule } from '@agm/core';
 import { MnFullpageModule } from 'ngx-fullpage';
 
 import { AppComponent } from './app.component';
-import { HttpClient } from '@angular/common/http';
+import { HttpClientModule, HttpClient } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -13,6 +13,7 @@ import { HttpClient } from '@angular/common/http';
   imports: [
     BrowserModule,
     MnFullpageModule.forRoot(),
+    HttpClientModule,
     AgmCoreModule.forRoot({
       apiKey: 'AIzaSyAYG9d8fas1qkl6LQv3MvYiYVtUCLXah2Q'
     })

@@ -9,6 +9,7 @@
     <div class="fp-tableCell">
       <div class="cover-img">
         <span class="cover-text">UNEARTH</span>
+        <input class="cover-input" placeholder="Search" (keyup.enter)="searchDisasters($event)" > <i class="fas fa-search"></i>
       </div>
     </div>
   </div>
@@ -19,43 +20,35 @@
         <div id="sidebar-wrapper">
           <ul class="sidebar-nav">
             <li class="sidebar-brand">
+              
               <a href="#">
-                Start Bootstrap
+                  {{disaster?.title}}
               </a>
+            
             </li>
             <li>
-              <a href="#">Dashboard</a>
+              <a href="#">{{disaster?.description}}</a>
             </li>
-            <li>
-              <a href="#">Shortcuts</a>
-            </li>
-            <li>
-              <a href="#">Overview</a>
-            </li>
-            <li>
-              <a href="#">Events</a>
-            </li>
-            <li>
-              <a href="#">About</a>
-            </li>
-            <li>
-              <a href="#">Services</a>
-            </li>
-            <li>
-              <a href="#">Contact</a>
+            <li *ngFor="let charity of charityList">
+                <a href="#">{{charity.websiteURL}}</a>
             </li>
           </ul>
         </div>
         <!-- /#sidebar-wrapper -->
         <div id="page-content-wrapper">
             <a href="#menu-toggle" class="btn btn-secondary" id="menu-toggle" (click)="showSidebar = !showSidebar">
-                <i class="fas fa-bars"></i>
+                <i class="fas fa-bars fa-2x"></i>
               </a>
           <agm-map [longitude]='longitude' [latitude]='latitude' (mapClick)=onClickCoord($event)>
-            <agm-marker [longitude]='longitude' [latitude]='latitude'>
+            <!-- <agm-marker [longitude]='longitude' [latitude]='latitude'></agm-marker>
+            <agm-marker [longitude]='longitude1' [latitude]='latitude1'></agm-marker> -->
+            <agm-marker [latitude]="latitude" [longitude]="longitude"></agm-marker>
+              <agm-marker  *ngFor="let disaster of disasterList; let i = index" 
+                [latitude]="disaster.latitude" 
+                [longitude]="disaster.longitude"
+                (markerClick)="getDisasterInfo(disaster)">
             </agm-marker>
           </agm-map>
-          
         </div>
       </div>
     </div>

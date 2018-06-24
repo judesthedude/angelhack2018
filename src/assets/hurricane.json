@@ -1,0 +1,634 @@
+[
+    {
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=17029&utm_source=DataAPI&utm_content=9989397e",
+        "mission": "St. Bernard Project (SBP) was founded in March 2006 by Zack Rosenburg and Liz McCartney after the couple, who originally lived in Washington, D.C., volunteered in Louisiana's St. Bernard Parish following Hurricane Katrina. The parish, located just outside of New Orleans, was rendered 100% uninhabitable by Katrina's floodwaters. Seeing the inefficiency and unbearably slow progress of the institutional - or “traditional” rebuilding process, but inspired by the residents' collective spirit and fierce determination to rebuild, Zack and Liz launched SBP to help them achieve their recovery goals. With the tremendous support of donors, volunteers and corporate partners, SBP has grown from a three-person volunteer team into a national organization, recognized as a leader in disaster resilience and recovery, whose mission is to shrink time between disaster and recovery.",
+        "websiteURL": "http://sbpusa.org/",
+        "tagLine": "We shrink the time between disaster and recovery.",
+        "charityName": "SBP",
+        "ein": "262189665",
+        "orgID": 17029,
+        "currentRating": {
+            "score": 94.36,
+            "ratingID": 130524,
+            "publicationDate": "2018-05-01T04:00:00.000Z",
+            "ratingImage": {
+                "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+                "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+            },
+            "rating": 4,
+            "financialRating": {
+                "score": 93.1,
+                "rating": 4
+            },
+            "accountabilityRating": {
+                "score": 96,
+                "rating": 4
+            }
+        },
+        "category": {
+            "categoryName": "Human Services",
+            "categoryID": 6,
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.categories&categoryid=6&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/categories/health.png?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "cause": {
+            "causeID": 15,
+            "causeName": "Multipurpose Human Service Organizations",
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.results&cgid=6&cuid=15&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/causes/small/multipurpose.gif?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "irsClassification": {
+            "deductibility": "Contributions are deductible",
+            "subsection": "501(c)(3)",
+            "nteeType": "Public Safety, Disaster Preparedness and Relief",
+            "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+            "nteeSuffix": null,
+            "nteeClassification": "Disaster Preparedness and Relief Services",
+            "deductibilityDetail": null,
+            "nteeCode": "M20",
+            "nteeLetter": "M"
+        },
+        "mailingAddress": {
+            "country": null,
+            "stateOrProvince": "LA",
+            "city": "New Orleans",
+            "postalCode": "70119",
+            "streetAddress1": "2645 Toulouse Street",
+            "streetAddress2": null
+        },
+        "advisories": {
+            "severity": null,
+            "active": {
+                "_rapid_links": {
+                    "related": {
+                        "href": "https://api.data.charitynavigator.org/v2/Organizations/262189665/Advisories?status=ACTIVE"
+                    }
+                }
+            }
+        },
+        "organization": {
+            "charityName": "SBP",
+            "ein": "262189665",
+            "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=17029&utm_source=DataAPI&utm_content=9989397e",
+            "_rapid_links": {
+                "related": {
+                    "href": "https://api.data.charitynavigator.org/v2/Organizations/262189665"
+                }
+            }
+        }
+    },
+    {
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=15671&utm_source=DataAPI&utm_content=9989397e",
+        "mission": "Firehouse Subs Public Safety Foundation was founded in 2005 in the aftermath of Hurricane Katrina. Firehouse Subs co-founders, Chris Sorensen and Robin Sorensen, traveled to Mississippi where they fed first responders as well as survivors. As they traveled back to Florida exhausted and exhilarated, they knew we could do more and the Firehouse Subs Public Safety Foundation was born. Firehouse Subs Public Safety Foundation is dedicated to impact the life-saving capabilities and the lives of local heroes and their communities.",
+        "websiteURL": "https://firehousesubsfoundation.org/",
+        "tagLine": "Helping Our Hometown Heroes",
+        "charityName": "Firehouse Subs Public Safety Foundation",
+        "ein": "203588745",
+        "orgID": 15671,
+        "currentRating": {
+            "score": 94.34,
+            "ratingID": 127584,
+            "publicationDate": "2018-02-01T05:00:00.000Z",
+            "ratingImage": {
+                "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+                "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+            },
+            "rating": 4,
+            "financialRating": {
+                "score": 100,
+                "rating": 4
+            },
+            "accountabilityRating": {
+                "score": 92,
+                "rating": 4
+            }
+        },
+        "category": {
+            "categoryName": "Human Services",
+            "categoryID": 6,
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.categories&categoryid=6&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/categories/health.png?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "cause": {
+            "causeID": 15,
+            "causeName": "Multipurpose Human Service Organizations",
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.results&cgid=6&cuid=15&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/causes/small/multipurpose.gif?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "irsClassification": {
+            "deductibility": "Contributions are deductible",
+            "subsection": "501(c)(3)",
+            "nteeType": "Public Safety, Disaster Preparedness and Relief",
+            "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+            "nteeSuffix": "2",
+            "nteeClassification": "Nonmonetary Support N.E.C.",
+            "deductibilityDetail": null,
+            "nteeCode": "M19",
+            "nteeLetter": "M"
+        },
+        "mailingAddress": {
+            "country": null,
+            "stateOrProvince": "FL",
+            "city": "Jacksonville",
+            "postalCode": "32258",
+            "streetAddress1": "12735 Gran Bay Parkway, Suite 150",
+            "streetAddress2": null
+        },
+        "advisories": {
+            "severity": null,
+            "active": {
+                "_rapid_links": {
+                    "related": {
+                        "href": "https://api.data.charitynavigator.org/v2/Organizations/203588745/Advisories?status=ACTIVE"
+                    }
+                }
+            }
+        },
+        "organization": {
+            "charityName": "Firehouse Subs Public Safety Foundation",
+            "ein": "203588745",
+            "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=15671&utm_source=DataAPI&utm_content=9989397e",
+            "_rapid_links": {
+                "related": {
+                    "href": "https://api.data.charitynavigator.org/v2/Organizations/203588745"
+                }
+            }
+        }
+    },
+    {
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8702&utm_source=DataAPI&utm_content=9989397e",
+        "mission": "Founded in 1995, the New Orleans Police and Justice Foundation (NOPJF) is dedicated to supporting the people and processes of the criminal justice system in New Orleans, Louisiana. Originally established to enhance the operations and capacities of the New Orleans Police Department (NOPD), the Foundation has expanded its role to include other elements of the New Orleans criminal justice system. A significant role of NOPJF not foreseen at its inception was reconstruction of the New Orleans criminal justice system following Hurricane Katrina. Since Katrina, three goals have defined the NOPJF strategic vision of restoring faith in the Orleans Parish Justice System: retain and restore essential human capital; rebuild and restore critical infrastructure; and improve operational effectiveness and efficiency.",
+        "websiteURL": "http://www.nopjf.org",
+        "tagLine": "Dedicated to improving the criminal justice system in Orleans Parish",
+        "charityName": "New Orleans Police and Justice Foundation",
+        "ein": "721311151",
+        "orgID": 8702,
+        "currentRating": {
+            "score": 94.07,
+            "ratingID": 130929,
+            "publicationDate": "2018-05-01T04:00:00.000Z",
+            "ratingImage": {
+                "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+                "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+            },
+            "rating": 4,
+            "financialRating": {
+                "score": 97.5,
+                "rating": 4
+            },
+            "accountabilityRating": {
+                "score": 92,
+                "rating": 4
+            }
+        },
+        "category": {
+            "categoryName": "Human Services",
+            "categoryID": 6,
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.categories&categoryid=6&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/categories/health.png?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "cause": {
+            "causeID": 15,
+            "causeName": "Multipurpose Human Service Organizations",
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.results&cgid=6&cuid=15&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/causes/small/multipurpose.gif?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "irsClassification": {
+            "deductibility": "Contributions are deductible",
+            "subsection": "501(c)(3)",
+            "nteeType": "Crime, Legal-Related",
+            "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+            "nteeSuffix": "0",
+            "nteeClassification": "Nonmonetary Support N.E.C.",
+            "deductibilityDetail": null,
+            "nteeCode": "I19",
+            "nteeLetter": "I"
+        },
+        "mailingAddress": {
+            "country": null,
+            "stateOrProvince": "LA",
+            "city": "New Orleans",
+            "postalCode": "70124",
+            "streetAddress1": "141 Robert E. Lee Blvd.",
+            "streetAddress2": "Suite 210"
+        },
+        "advisories": {
+            "severity": null,
+            "active": {
+                "_rapid_links": {
+                    "related": {
+                        "href": "https://api.data.charitynavigator.org/v2/Organizations/721311151/Advisories?status=ACTIVE"
+                    }
+                }
+            }
+        },
+        "organization": {
+            "charityName": "New Orleans Police and Justice Foundation",
+            "ein": "721311151",
+            "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=8702&utm_source=DataAPI&utm_content=9989397e",
+            "_rapid_links": {
+                "related": {
+                    "href": "https://api.data.charitynavigator.org/v2/Organizations/721311151"
+                }
+            }
+        }
+    },
+    {
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=5650&utm_source=DataAPI&utm_content=9989397e",
+        "mission": "The Baton Rouge Area Foundation (BRAF) provides two essential functions for the capital region. One, the Foundation connects philanthropists with capable nonprofits to make sure the needs of our communities are met. Two, the Foundation invests in and manages pivotal projects that can change the community. Since 1964, we have made tens of thousands of grants totaling more than $225 million. Nonprofits have used the grants to feed and clothe people, protect the abused, preserve the wilderness, create an arts center, educate children who deserve a second chance, protect young girls from cancer, revive downtown Baton Rouge and raise more than $45 million for hurricane relief.",
+        "websiteURL": "http://www.braf.org",
+        "tagLine": "Making philanthropy simple and effective for our donors",
+        "charityName": "Baton Rouge Area Foundation",
+        "ein": "726030391",
+        "orgID": 5650,
+        "currentRating": {
+            "score": 93.08,
+            "ratingID": 130769,
+            "publicationDate": "2018-05-01T04:00:00.000Z",
+            "ratingImage": {
+                "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+                "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+            },
+            "rating": 4,
+            "financialRating": {
+                "score": 94.38,
+                "rating": 4
+            },
+            "accountabilityRating": {
+                "score": 92,
+                "rating": 4
+            }
+        },
+        "category": {
+            "categoryName": "Community Development",
+            "categoryID": 10,
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.categories&categoryid=10&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/categories/religion.png?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "cause": {
+            "causeID": 22,
+            "causeName": "Community Foundations",
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.results&cgid=10&cuid=22&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/causes/small/community_foundations.gif?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "irsClassification": {
+            "deductibility": "Contributions are deductible",
+            "subsection": "501(c)(3)",
+            "nteeType": "Philanthropy, Voluntarism and Grantmaking Foundations",
+            "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+            "nteeSuffix": "0",
+            "nteeClassification": "Community Foundations",
+            "deductibilityDetail": null,
+            "nteeCode": "T31",
+            "nteeLetter": "T"
+        },
+        "mailingAddress": {
+            "country": null,
+            "stateOrProvince": "LA",
+            "city": "Baton Rouge",
+            "postalCode": "70802",
+            "streetAddress1": "100 North Street",
+            "streetAddress2": "Suite 900"
+        },
+        "advisories": {
+            "severity": null,
+            "active": {
+                "_rapid_links": {
+                    "related": {
+                        "href": "https://api.data.charitynavigator.org/v2/Organizations/726030391/Advisories?status=ACTIVE"
+                    }
+                }
+            }
+        },
+        "organization": {
+            "charityName": "Baton Rouge Area Foundation",
+            "ein": "726030391",
+            "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=5650&utm_source=DataAPI&utm_content=9989397e",
+            "_rapid_links": {
+                "related": {
+                    "href": "https://api.data.charitynavigator.org/v2/Organizations/726030391"
+                }
+            }
+        }
+    },
+    {
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3908&utm_source=DataAPI&utm_content=9989397e",
+        "mission": "Islamic Relief USA strives to alleviate suffering, hunger, illiteracy, and diseases worldwide regardless of color, race, religion, or creed, and to provide aid in a compassionate and dignified manner. Incorporated in California in 1993, Islamic Relief operates a wide variety of projects, including education and training, water and sanitation, income generation, orphan support, health and nutrition, and emergency relief. Islamic Relief also sponsors many domestic projects, including homeless feedings, financial assistance, healthcare in underserved areas, the annual Day of Dignity program, providing food, medical care, hygiene kits, clothes, blankets, and more to homeless and underserved communities across the United States. Islamic Relief's largest domestic project was the response to Hurricane Katrina.",
+        "websiteURL": "http://www.irusa.org",
+        "tagLine": "Working together for a better world.",
+        "charityName": "Islamic Relief USA",
+        "ein": "954453134",
+        "orgID": 3908,
+        "currentRating": {
+            "score": 91.16,
+            "ratingID": 130686,
+            "publicationDate": "2018-05-01T04:00:00.000Z",
+            "ratingImage": {
+                "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4starsb.png",
+                "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/4stars.png"
+            },
+            "rating": 4,
+            "financialRating": {
+                "score": 87.5,
+                "rating": 3
+            },
+            "accountabilityRating": {
+                "score": 100,
+                "rating": 4
+            }
+        },
+        "category": {
+            "categoryName": "International",
+            "categoryID": 7,
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.categories&categoryid=7&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/categories/human.png?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "cause": {
+            "causeID": 20,
+            "causeName": "Development and Relief Services",
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.results&cgid=7&cuid=20&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/causes/small/development_relief.gif?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "irsClassification": {
+            "deductibility": "Contributions are deductible",
+            "subsection": "501(c)(3)",
+            "nteeType": "International, Foreign Affairs and National Security",
+            "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+            "nteeSuffix": "3",
+            "nteeClassification": "Fund Raising and/or Fund Distribution ",
+            "deductibilityDetail": null,
+            "nteeCode": "Q12",
+            "nteeLetter": "Q"
+        },
+        "mailingAddress": {
+            "country": null,
+            "stateOrProvince": "VA",
+            "city": "Alexandria",
+            "postalCode": "22304",
+            "streetAddress1": "3655 Wheeler Ave.",
+            "streetAddress2": null
+        },
+        "donationAddress": {
+            "country": null,
+            "stateOrProvince": "VA",
+            "city": "Alexandria",
+            "postalCode": "22304",
+            "streetAddress1": "P.O. Box 22250",
+            "streetAddress2": null
+        },
+        "advisories": {
+            "severity": null,
+            "active": {
+                "_rapid_links": {
+                    "related": {
+                        "href": "https://api.data.charitynavigator.org/v2/Organizations/954453134/Advisories?status=ACTIVE"
+                    }
+                }
+            }
+        },
+        "organization": {
+            "charityName": "Islamic Relief USA",
+            "ein": "954453134",
+            "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3908&utm_source=DataAPI&utm_content=9989397e",
+            "_rapid_links": {
+                "related": {
+                    "href": "https://api.data.charitynavigator.org/v2/Organizations/954453134"
+                }
+            }
+        }
+    },
+    {
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=16631&utm_source=DataAPI&utm_content=9989397e",
+        "mission": "In line with its vision, Comic Relief USA makes grants to charity partners that support people living in poverty in America and some of the poorest communities in the world. In addition to running fundraising campaigns such as Red Nose Day, Comic Relief USA is also the charity behind other campaigns such as Idol Gives Back, Hand in Hand: a Benefit for Hurricane Relief, and British Airways' Flying Start in the USA.<br>Comic Relief USA's aim is to bring about real and lasting change by tackling the root causes of poverty and social injustice. To drive this change, Comic Relief USA delivers grants to charity partners that support people living in poverty in America and some of the poorest communities in the world.<br><br><br>",
+        "websiteURL": "http://comicrelief.org/",
+        "tagLine": "Driving positive change through the power of entertainment",
+        "charityName": "Comic Relief, Inc.",
+        "ein": "010885377",
+        "orgID": 16631,
+        "currentRating": {
+            "score": 89.5,
+            "ratingID": 130506,
+            "publicationDate": "2018-04-01T04:00:00.000Z",
+            "ratingImage": {
+                "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+                "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+            },
+            "rating": 3,
+            "financialRating": {
+                "score": 87.5,
+                "rating": 3
+            },
+            "accountabilityRating": {
+                "score": 92,
+                "rating": 4
+            }
+        },
+        "category": {
+            "categoryName": "Human Services",
+            "categoryID": 6,
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.categories&categoryid=6&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/categories/health.png?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "cause": {
+            "causeID": 17,
+            "causeName": "Children's and Family Services",
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.results&cgid=6&cuid=17&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/causes/small/children_family.gif?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "irsClassification": {
+            "deductibility": "Contributions are deductible",
+            "subsection": "501(c)(3)",
+            "nteeType": "Philanthropy, Voluntarism and Grantmaking Foundations",
+            "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+            "nteeSuffix": null,
+            "nteeClassification": "Fund Raising and/or Fund Distribution ",
+            "deductibilityDetail": null,
+            "nteeCode": "T12",
+            "nteeLetter": "T"
+        },
+        "mailingAddress": {
+            "country": null,
+            "stateOrProvince": "NY",
+            "city": "New York",
+            "postalCode": "10022",
+            "streetAddress1": "488 Madison Avenue",
+            "streetAddress2": "10th Floor"
+        },
+        "advisories": {
+            "severity": null,
+            "active": {
+                "_rapid_links": {
+                    "related": {
+                        "href": "https://api.data.charitynavigator.org/v2/Organizations/010885377/Advisories?status=ACTIVE"
+                    }
+                }
+            }
+        },
+        "organization": {
+            "charityName": "Comic Relief, Inc.",
+            "ein": "010885377",
+            "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=16631&utm_source=DataAPI&utm_content=9989397e",
+            "_rapid_links": {
+                "related": {
+                    "href": "https://api.data.charitynavigator.org/v2/Organizations/010885377"
+                }
+            }
+        }
+    },
+    {
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3430&utm_source=DataAPI&utm_content=9989397e",
+        "mission": "Incorporated in 1938, Catholic Charities Archdiocese of New Orleans offers life-giving programs, advocates for the voiceless and empowers the most vulnerable to foster a more just society. Prior to Hurricane Katrina, Catholic Charities operated more than 30 programs addressing such issues as hunger, poverty, unemployment, domestic violence, education and the needs of the mentally ill, low-income seniors and at-risk children. Today, we serve those whose lives have been changed forever by Hurricane Katrina, in addition to many of those we served before. We are currently operating more than 48 programs, several of which are geared directly toward hurricane recovery.",
+        "websiteURL": "http://www.ccano.org/",
+        "tagLine": "Providing help, creating hope",
+        "charityName": "Catholic Charities Archdiocese of New Orleans",
+        "ein": "720408911",
+        "orgID": 3430,
+        "currentRating": {
+            "score": 89.02,
+            "ratingID": 125389,
+            "publicationDate": "2017-11-01T04:00:00.000Z",
+            "ratingImage": {
+                "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+                "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+            },
+            "rating": 3,
+            "financialRating": {
+                "score": 85,
+                "rating": 3
+            },
+            "accountabilityRating": {
+                "score": 96,
+                "rating": 4
+            }
+        },
+        "category": {
+            "categoryName": "Human Services",
+            "categoryID": 6,
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.categories&categoryid=6&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/categories/health.png?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "cause": {
+            "causeID": 29,
+            "causeName": "Social Services",
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.results&cgid=6&cuid=29&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/causes/small/social_services.gif?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "irsClassification": {
+            "deductibility": "Contributions are deductible",
+            "subsection": "501(c)(3)",
+            "nteeType": "Human Services - Multipurpose and Other",
+            "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+            "nteeSuffix": "0",
+            "nteeClassification": "Human Service Organizations - Multipurpose",
+            "deductibilityDetail": null,
+            "nteeCode": "P20",
+            "nteeLetter": "P"
+        },
+        "mailingAddress": {
+            "country": null,
+            "stateOrProvince": "LA",
+            "city": "New Orleans",
+            "postalCode": "70113    ",
+            "streetAddress1": "1000 Howard Avenue",
+            "streetAddress2": "Suite 1000"
+        },
+        "advisories": {
+            "severity": null,
+            "active": {
+                "_rapid_links": {
+                    "related": {
+                        "href": "https://api.data.charitynavigator.org/v2/Organizations/720408911/Advisories?status=ACTIVE"
+                    }
+                }
+            }
+        },
+        "organization": {
+            "charityName": "Catholic Charities Archdiocese of New Orleans",
+            "ein": "720408911",
+            "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=3430&utm_source=DataAPI&utm_content=9989397e",
+            "_rapid_links": {
+                "related": {
+                    "href": "https://api.data.charitynavigator.org/v2/Organizations/720408911"
+                }
+            }
+        }
+    },
+    {
+        "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4626&utm_source=DataAPI&utm_content=9989397e",
+        "mission": "United Way of Southeast Louisiana's mission is to increase the organized capacity of people to be independent and self-sufficient. Our vision is to position the United Way system in an effort to strengthen the\r\ncommunity's ability to impact its own problems. United Way's primary focus is on long term hurricane recovery. We are still providing a coordinated response to Katrina and Rita and more recently, Gustav and Ike, so we can have a healthy quality of life, a strong workforce and brighter economic future for our six-parish area. We are currently working to build strong families that can provide supports necessary to assure that their children are successful, a safety net for our frail or disadvantaged populations, and the ability to maximize health and independence for all people.",
+        "websiteURL": "http://www.unitedwaysela.org/",
+        "tagLine": "Live united",
+        "charityName": "United Way of Southeast Louisiana",
+        "ein": "720471369",
+        "orgID": 4626,
+        "currentRating": {
+            "score": 86.94,
+            "ratingID": 131670,
+            "publicationDate": "2018-06-01T04:00:00.000Z",
+            "ratingImage": {
+                "small": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3starsb.png",
+                "large": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/stars/3stars.png"
+            },
+            "rating": 3,
+            "financialRating": {
+                "score": 82.91,
+                "rating": 3
+            },
+            "accountabilityRating": {
+                "score": 93,
+                "rating": 4
+            }
+        },
+        "category": {
+            "categoryName": "Community Development",
+            "categoryID": 10,
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.categories&categoryid=10&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/icons/categories/religion.png?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "cause": {
+            "causeID": 42,
+            "causeName": "United Ways",
+            "charityNavigatorURL": "https://www.charitynavigator.org/index.cfm?bay=search.results&cgid=10&cuid=42&utm_source=DataAPI&utm_content=9989397e",
+            "image": "https://d20umu42aunjpx.cloudfront.net/_gfx_/causes/small/United_Way.gif?utm_source=DataAPI&utm_content=9989397e"
+        },
+        "irsClassification": {
+            "deductibility": "Contributions are deductible",
+            "subsection": "501(c)(3)",
+            "nteeType": "Philanthropy, Voluntarism and Grantmaking Foundations",
+            "foundationStatus": "Organization which receives a substantial part of its support from a governmental unit or the general public   170(b)(1)(A)(vi)",
+            "nteeSuffix": "Z",
+            "nteeClassification": "Fund Raising Organizations That Cross Categories",
+            "deductibilityDetail": null,
+            "nteeCode": "T70",
+            "nteeLetter": "T"
+        },
+        "mailingAddress": {
+            "country": null,
+            "stateOrProvince": "LA",
+            "city": "New Orleans",
+            "postalCode": "70119    ",
+            "streetAddress1": "2515 Canal Street",
+            "streetAddress2": null
+        },
+        "advisories": {
+            "severity": null,
+            "active": {
+                "_rapid_links": {
+                    "related": {
+                        "href": "https://api.data.charitynavigator.org/v2/Organizations/720471369/Advisories?status=ACTIVE"
+                    }
+                }
+            }
+        },
+        "organization": {
+            "charityName": "United Way of Southeast Louisiana",
+            "ein": "720471369",
+            "charityNavigatorURL": "https://www.charitynavigator.org/?bay=search.summary&orgid=4626&utm_source=DataAPI&utm_content=9989397e",
+            "_rapid_links": {
+                "related": {
+                    "href": "https://api.data.charitynavigator.org/v2/Organizations/720471369"
+                }
+            }
+        }
+    }
+]
